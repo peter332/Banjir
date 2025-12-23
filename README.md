@@ -4,11 +4,11 @@ This repo runs a Python extractor against the Public Info Banjir site and publis
 
 ## What it extracts
 
-- Source website: `https://publicinfobanjir.water.gov.my/aras-air/data-paras-air/aras-air-data/`
+- Source website: `https://publicinfobanjir.water.gov.my/aras-air/?lang=en`
 - States queried (`STATE_CODES` in `extract.py`): `PLS, KDH, PNG, PRK, SEL, WLH, PTJ, NSN, MLK, JHR, PHG, TRG, KEL, SRK, SAB, WLP`
 - Filtering rule:
   - Default: no filtering (returns all rows found for each state).
-  - Optional: pass `--danger-only` to keep only rows where `Water Level >= Threshold Danger` (when the threshold column is available).
+  - Optional: pass `--danger-only` to keep only rows where `Threshold Danger > 0` and `Water Level >= Threshold Danger` (when the threshold column is available).
 - Output fields:
   - The JSON records include the columns listed in `DESIRED_COLUMNS` in `extract.py` (when present), plus `state_code`.
 
@@ -48,8 +48,8 @@ Top-level schema:
 
 ```json
 {
-  "generated_at": "2025-12-23T03:12:45.123456+00:00",
-  "source": "https://publicinfobanjir.water.gov.my/aras-air/data-paras-air/aras-air-data/",
+  "generated_at": "23/12/2025 11:12",
+  "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 123,
   "all": [ { "…row fields…" }, { "…row fields…" } ],
   "states": {
@@ -61,7 +61,7 @@ Top-level schema:
 
 Field meanings:
 
-- `generated_at`: ISO-8601 timestamp in UTC for when the JSON was generated.
+- `generated_at`: Timestamp in Malaysia time (`Asia/Kuala_Lumpur`) formatted as `DD/MM/YYYY HH:mm`.
 - `source`: Source URL used by the script.
 - `rows`: Total number of rows in `all`.
 - `all`: Flattened list of all returned rows across states (after filtering).

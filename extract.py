@@ -5,6 +5,7 @@ import argparse
 import json
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 STATE_CODES = [
     "PLS","KDH","PNG","PRK","SEL","WLH","PTJ","NSN","MLK","JHR",
@@ -21,7 +22,9 @@ DESIRED_COLUMNS = [
     "state_code",
 ]
 
+SOURCE_URL = "https://publicinfobanjir.water.gov.my/aras-air/?lang=en"
 BASE = "https://publicinfobanjir.water.gov.my/aras-air/data-paras-air/aras-air-data/"
+MY_TZ = ZoneInfo("Asia/Kuala_Lumpur")
 
 def flatten_columns(df: pd.DataFrame) -> pd.DataFrame:
     if isinstance(df.columns, pd.MultiIndex):
@@ -50,8 +53,8 @@ def fetch_state(state_code: str, *, danger_only: bool) -> pd.DataFrame:
         if danger_col in df.columns and level_col in df.columns:
             level_vals = pd.to_numeric(df[level_col], errors="coerce")
             danger_vals = pd.to_numeric(df[danger_col], errors="coerce")
-            mask = (level_vals >= danger_vals).fillna(False)
-            df = df[mask]
+            mask = ((danger_vals > 0) & (level_vals >= danger_vals)).fillna(False)
+            df = df.loc[mask].copy()
 
     df["state_code"] = state_code
     keep_cols = [c for c in DESIRED_COLUMNS if c in df.columns]
@@ -61,6 +64,12 @@ def fetch_state(state_code: str, *, danger_only: bool) -> pd.DataFrame:
 
 def df_to_records(df: pd.DataFrame) -> list[dict]:
     cleaned = df.copy()
+    last_updated_col = "Last Updated Last Updated"
+    if last_updated_col in cleaned.columns:
+        parsed = pd.to_datetime(cleaned[last_updated_col], errors="coerce", dayfirst=True)
+        if parsed.notna().any():
+            localized = parsed.dt.tz_localize(MY_TZ, nonexistent="NaT", ambiguous="NaT")
+            cleaned[last_updated_col] = localized.dt.strftime("%d/%m/%Y %H:%M").where(parsed.notna(), None)
     cleaned = cleaned.where(pd.notnull(cleaned), None)
     return cleaned.to_dict(orient="records")
 
@@ -88,8 +97,8 @@ def run(*, danger_only: bool) -> tuple[pd.DataFrame, dict[str, pd.DataFrame]]:
 
 def write_json(path: Path, combined: pd.DataFrame, per_state: dict[str, pd.DataFrame]) -> None:
     payload = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "source": BASE,
+        "generated_at": datetime.now(MY_TZ).strftime("%d/%m/%Y %H:%M"),
+        "source": SOURCE_URL,
         "rows": int(len(combined)),
         "all": df_to_records(combined),
         "states": {code: df_to_records(df) for code, df in per_state.items()},
