@@ -1,5 +1,5 @@
 {
-  "generated_at": "24/12/2025 00:19",
+  "generated_at": "24/12/2025 00:49",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 1,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "23/12/2025 23:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.84,
+      "Last Updated Last Updated": "24/12/2025 00:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.77,
       "state_code": "PHG"
     }
   ],
@@ -20,8 +20,8 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "23/12/2025 23:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.84,
+        "Last Updated Last Updated": "24/12/2025 00:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.77,
         "state_code": "PHG"
       }
     ]
