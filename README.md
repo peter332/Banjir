@@ -7,7 +7,8 @@ This repo runs a Python extractor against the Public Info Banjir site and publis
 - Source website: `https://publicinfobanjir.water.gov.my/aras-air/data-paras-air/aras-air-data/`
 - States queried (`STATE_CODES` in `extract.py`): `PLS, KDH, PNG, PRK, SEL, WLH, PTJ, NSN, MLK, JHR, PHG, TRG, KEL, SRK, SAB, WLP`
 - Filtering rule:
-  - If both `Threshold Danger` and `Water Level (m) (Graph) Water Level (m) (Graph)` exist in the table, the script keeps only rows where `Water Level >= Threshold Danger`.
+  - Default: no filtering (returns all rows found for each state).
+  - Optional: pass `--danger-only` to keep only rows where `Water Level >= Threshold Danger` (when the threshold column is available).
 - Output fields:
   - The JSON records include the columns listed in `DESIRED_COLUMNS` in `extract.py` (when present), plus `state_code`.
 
@@ -25,6 +26,12 @@ Run and write JSON:
 
 ```bash
 python extract.py --json docs/data.json
+```
+
+Optional: keep only stations at/above danger threshold:
+
+```bash
+python extract.py --json docs/data.json --danger-only
 ```
 
 Optional: also write an XLSX file (requires `openpyxl`, already in `requirements.txt`):
@@ -174,4 +181,3 @@ Important scheduling note:
   - Re-run locally and inspect the response; you may need to update parsing logic in `extract.py`.
 - If `docs/data.json` is 0 rows:
   - The filter keeps only rows where water level meets/exceeds danger threshold (when threshold is available). The site may return none at that moment.
-

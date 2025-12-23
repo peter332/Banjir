@@ -33,7 +33,7 @@ def flatten_columns(df: pd.DataFrame) -> pd.DataFrame:
         df.columns = [str(c).strip() for c in df.columns]
     return df
 
-def fetch_state(state_code: str) -> pd.DataFrame:
+def fetch_state(state_code: str, *, danger_only: bool) -> pd.DataFrame:
     params = {"district":"ALL", "station":"ALL", "lang":"en", "state": state_code}
     r = requests.get(BASE, params=params, timeout=30)
     r.raise_for_status()
@@ -44,13 +44,14 @@ def fetch_state(state_code: str) -> pd.DataFrame:
 
     df = tables[0]
     df = flatten_columns(df)              
-    danger_col = "Threshold Danger"
-    level_col = "Water Level (m) (Graph) Water Level (m) (Graph)"
-    if danger_col in df.columns and level_col in df.columns:
-        level_vals = pd.to_numeric(df[level_col], errors="coerce")
-        danger_vals = pd.to_numeric(df[danger_col], errors="coerce")
-        mask = (level_vals >= danger_vals).fillna(False)
-        df = df[mask]
+    if danger_only:
+        danger_col = "Threshold Danger"
+        level_col = "Water Level (m) (Graph) Water Level (m) (Graph)"
+        if danger_col in df.columns and level_col in df.columns:
+            level_vals = pd.to_numeric(df[level_col], errors="coerce")
+            danger_vals = pd.to_numeric(df[danger_col], errors="coerce")
+            mask = (level_vals >= danger_vals).fillna(False)
+            df = df[mask]
 
     df["state_code"] = state_code
     keep_cols = [c for c in DESIRED_COLUMNS if c in df.columns]
@@ -63,13 +64,13 @@ def df_to_records(df: pd.DataFrame) -> list[dict]:
     cleaned = cleaned.where(pd.notnull(cleaned), None)
     return cleaned.to_dict(orient="records")
 
-def run() -> tuple[pd.DataFrame, dict[str, pd.DataFrame]]:
+def run(*, danger_only: bool) -> tuple[pd.DataFrame, dict[str, pd.DataFrame]]:
     all_data: list[pd.DataFrame] = []
     per_state: dict[str, pd.DataFrame] = {}
 
     for code in STATE_CODES:
         try:
-            df = fetch_state(code)
+            df = fetch_state(code, danger_only=danger_only)
             if df.empty:
                 print(f"{code}: no table / empty")
                 continue
@@ -107,9 +108,14 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Extract publicinfobanjir water level data.")
     parser.add_argument("--json", default="docs/data.json", help="Output JSON path.")
     parser.add_argument("--xlsx", default=None, help="Optional output XLSX path.")
+    parser.add_argument(
+        "--danger-only",
+        action="store_true",
+        help="Keep only stations where Water Level >= Threshold Danger (when available).",
+    )
     args = parser.parse_args()
 
-    combined, per_state = run()
+    combined, per_state = run(danger_only=args.danger_only)
 
     json_path = Path(args.json)
     write_json(json_path, combined, per_state)
