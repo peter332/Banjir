@@ -160,7 +160,7 @@ What it does:
 
 1. Runs every 15 minutes (`cron: */15 * * * *`) and can also be started manually (workflow dispatch).
 2. Installs Python dependencies from `requirements.txt`.
-3. Runs: `python extract.py --json docs/data.json`
+3. Runs: `python extract.py --json docs/data.json --danger-only`
 4. If `docs/data.json` changed, commits and pushes the update.
 
 Important setup (required):
