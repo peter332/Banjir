@@ -1,17 +1,8 @@
 {
-  "generated_at": "25/12/2025 06:51",
+  "generated_at": "25/12/2025 07:14",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 1,
   "all": [
-    {
-      "Station Name Station Name": "Sg. Keratong di Kg. Rekoh (F2)",
-      "District District": "Rompin",
-      "Main Basin Main Basin": "Sungai Rompin",
-      "Sub River Basin Sub River Basin": "Sg. Keratong",
-      "Last Updated Last Updated": "25/12/2025 04:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 28.87,
-      "state_code": "PHG"
-    },
     {
       "Station Name Station Name": "Sg. Pahang di Paloh Hinai",
       "District District": "Pekan",
@@ -24,15 +15,6 @@
   ],
   "states": {
     "PHG": [
-      {
-        "Station Name Station Name": "Sg. Keratong di Kg. Rekoh (F2)",
-        "District District": "Rompin",
-        "Main Basin Main Basin": "Sungai Rompin",
-        "Sub River Basin Sub River Basin": "Sg. Keratong",
-        "Last Updated Last Updated": "25/12/2025 04:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 28.87,
-        "state_code": "PHG"
-      },
       {
         "Station Name Station Name": "Sg. Pahang di Paloh Hinai",
         "District District": "Pekan",
