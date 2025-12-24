@@ -1,5 +1,5 @@
 {
-  "generated_at": "24/12/2025 22:14",
+  "generated_at": "24/12/2025 22:36",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 3,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Rompin",
       "Main Basin Main Basin": "Sungai Rompin",
       "Sub River Basin Sub River Basin": "Sg. Keratong",
-      "Last Updated Last Updated": "24/12/2025 21:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 29.01,
+      "Last Updated Last Updated": "24/12/2025 22:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 29.0,
       "state_code": "PHG"
     },
     {
@@ -17,8 +17,8 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "24/12/2025 21:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.88,
+      "Last Updated Last Updated": "24/12/2025 22:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.8,
       "state_code": "PHG"
     },
     {
@@ -26,8 +26,8 @@
       "District District": "Samarahan",
       "Main Basin Main Basin": "Batang Samarahan",
       "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "24/12/2025 21:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.1,
+      "Last Updated Last Updated": "24/12/2025 21:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.04,
       "state_code": "SRK"
     }
   ],
@@ -38,8 +38,8 @@
         "District District": "Rompin",
         "Main Basin Main Basin": "Sungai Rompin",
         "Sub River Basin Sub River Basin": "Sg. Keratong",
-        "Last Updated Last Updated": "24/12/2025 21:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 29.01,
+        "Last Updated Last Updated": "24/12/2025 22:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 29.0,
         "state_code": "PHG"
       },
       {
@@ -47,8 +47,8 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "24/12/2025 21:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.88,
+        "Last Updated Last Updated": "24/12/2025 22:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.8,
         "state_code": "PHG"
       }
     ],
@@ -58,8 +58,8 @@
         "District District": "Samarahan",
         "Main Basin Main Basin": "Batang Samarahan",
         "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "24/12/2025 21:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.1,
+        "Last Updated Last Updated": "24/12/2025 21:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.04,
         "state_code": "SRK"
       }
     ]
