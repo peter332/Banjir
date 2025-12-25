@@ -1,5 +1,5 @@
 {
-  "generated_at": "25/12/2025 20:29",
+  "generated_at": "25/12/2025 21:09",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 2,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Seremban",
       "Main Basin Main Basin": "Sungai Linggi",
       "Sub River Basin Sub River Basin": "Sg. Linggi",
-      "Last Updated Last Updated": "25/12/2025 20:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.45,
+      "Last Updated Last Updated": "25/12/2025 21:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.0,
       "state_code": "NSN"
     },
     {
@@ -29,8 +29,8 @@
         "District District": "Seremban",
         "Main Basin Main Basin": "Sungai Linggi",
         "Sub River Basin Sub River Basin": "Sg. Linggi",
-        "Last Updated Last Updated": "25/12/2025 20:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.45,
+        "Last Updated Last Updated": "25/12/2025 21:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.0,
         "state_code": "NSN"
       }
     ],
