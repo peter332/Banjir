@@ -1,15 +1,15 @@
 {
-  "generated_at": "25/12/2025 22:52",
+  "generated_at": "25/12/2025 23:15",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 3,
+  "rows": 2,
   "all": [
     {
       "Station Name Station Name": "Sg. Kulim di Ara Kuda (F2)",
       "District District": "Seberang Perai Utara",
       "Main Basin Main Basin": "Sungai Perai",
       "Sub River Basin Sub River Basin": "Sg. Kulim",
-      "Last Updated Last Updated": "25/12/2025 22:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.43,
+      "Last Updated Last Updated": "25/12/2025 22:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.5,
       "state_code": "PNG"
     },
     {
@@ -20,15 +20,6 @@
       "Last Updated Last Updated": "25/12/2025 22:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 11.8,
       "state_code": "PHG"
-    },
-    {
-      "Station Name Station Name": "Kampung Entingan",
-      "District District": "Samarahan",
-      "Main Basin Main Basin": "Batang Samarahan",
-      "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "25/12/2025 22:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.09,
-      "state_code": "SRK"
     }
   ],
   "states": {
@@ -38,8 +29,8 @@
         "District District": "Seberang Perai Utara",
         "Main Basin Main Basin": "Sungai Perai",
         "Sub River Basin Sub River Basin": "Sg. Kulim",
-        "Last Updated Last Updated": "25/12/2025 22:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.43,
+        "Last Updated Last Updated": "25/12/2025 22:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.5,
         "state_code": "PNG"
       }
     ],
@@ -52,17 +43,6 @@
         "Last Updated Last Updated": "25/12/2025 22:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 11.8,
         "state_code": "PHG"
-      }
-    ],
-    "SRK": [
-      {
-        "Station Name Station Name": "Kampung Entingan",
-        "District District": "Samarahan",
-        "Main Basin Main Basin": "Batang Samarahan",
-        "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "25/12/2025 22:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.09,
-        "state_code": "SRK"
       }
     ]
   }
