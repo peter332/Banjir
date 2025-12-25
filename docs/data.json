@@ -1,15 +1,24 @@
 {
-  "generated_at": "25/12/2025 22:35",
+  "generated_at": "25/12/2025 22:52",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 3,
   "all": [
+    {
+      "Station Name Station Name": "Sg. Kulim di Ara Kuda (F2)",
+      "District District": "Seberang Perai Utara",
+      "Main Basin Main Basin": "Sungai Perai",
+      "Sub River Basin Sub River Basin": "Sg. Kulim",
+      "Last Updated Last Updated": "25/12/2025 22:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.43,
+      "state_code": "PNG"
+    },
     {
       "Station Name Station Name": "Sg. Pahang di Paloh Hinai",
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "25/12/2025 21:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.88,
+      "Last Updated Last Updated": "25/12/2025 22:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.8,
       "state_code": "PHG"
     },
     {
@@ -17,20 +26,31 @@
       "District District": "Samarahan",
       "Main Basin Main Basin": "Batang Samarahan",
       "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "25/12/2025 21:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.07,
+      "Last Updated Last Updated": "25/12/2025 22:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.09,
       "state_code": "SRK"
     }
   ],
   "states": {
+    "PNG": [
+      {
+        "Station Name Station Name": "Sg. Kulim di Ara Kuda (F2)",
+        "District District": "Seberang Perai Utara",
+        "Main Basin Main Basin": "Sungai Perai",
+        "Sub River Basin Sub River Basin": "Sg. Kulim",
+        "Last Updated Last Updated": "25/12/2025 22:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.43,
+        "state_code": "PNG"
+      }
+    ],
     "PHG": [
       {
         "Station Name Station Name": "Sg. Pahang di Paloh Hinai",
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "25/12/2025 21:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.88,
+        "Last Updated Last Updated": "25/12/2025 22:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.8,
         "state_code": "PHG"
       }
     ],
@@ -40,8 +60,8 @@
         "District District": "Samarahan",
         "Main Basin Main Basin": "Batang Samarahan",
         "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "25/12/2025 21:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.07,
+        "Last Updated Last Updated": "25/12/2025 22:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.09,
         "state_code": "SRK"
       }
     ]
