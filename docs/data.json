@@ -1,7 +1,7 @@
 {
-  "generated_at": "25/12/2025 21:09",
+  "generated_at": "25/12/2025 21:44",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 3,
   "all": [
     {
       "Station Name Station Name": "Sg. Linggi di Kg. Linsum",
@@ -17,9 +17,18 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "25/12/2025 20:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.95,
+      "Last Updated Last Updated": "25/12/2025 21:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.88,
       "state_code": "PHG"
+    },
+    {
+      "Station Name Station Name": "Kampung Entingan",
+      "District District": "Samarahan",
+      "Main Basin Main Basin": "Batang Samarahan",
+      "Sub River Basin Sub River Basin": "Sg. Entingan",
+      "Last Updated Last Updated": "25/12/2025 21:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.01,
+      "state_code": "SRK"
     }
   ],
   "states": {
@@ -40,9 +49,20 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "25/12/2025 20:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.95,
+        "Last Updated Last Updated": "25/12/2025 21:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.88,
         "state_code": "PHG"
+      }
+    ],
+    "SRK": [
+      {
+        "Station Name Station Name": "Kampung Entingan",
+        "District District": "Samarahan",
+        "Main Basin Main Basin": "Batang Samarahan",
+        "Sub River Basin Sub River Basin": "Sg. Entingan",
+        "Last Updated Last Updated": "25/12/2025 21:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.01,
+        "state_code": "SRK"
       }
     ]
   }
