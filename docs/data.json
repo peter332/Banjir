@@ -1,17 +1,8 @@
 {
-  "generated_at": "25/12/2025 18:54",
+  "generated_at": "25/12/2025 19:13",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 1,
   "all": [
-    {
-      "Station Name Station Name": "Sg. Linggi di Kg. Mantau",
-      "District District": "Seremban",
-      "Main Basin Main Basin": "Sungai Linggi",
-      "Sub River Basin Sub River Basin": "Sg. Linggi",
-      "Last Updated Last Updated": "25/12/2025 18:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 35.43,
-      "state_code": "NSN"
-    },
     {
       "Station Name Station Name": "Sg. Pahang di Paloh Hinai",
       "District District": "Pekan",
@@ -23,17 +14,6 @@
     }
   ],
   "states": {
-    "NSN": [
-      {
-        "Station Name Station Name": "Sg. Linggi di Kg. Mantau",
-        "District District": "Seremban",
-        "Main Basin Main Basin": "Sungai Linggi",
-        "Sub River Basin Sub River Basin": "Sg. Linggi",
-        "Last Updated Last Updated": "25/12/2025 18:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 35.43,
-        "state_code": "NSN"
-      }
-    ],
     "PHG": [
       {
         "Station Name Station Name": "Sg. Pahang di Paloh Hinai",
