@@ -1,5 +1,5 @@
 {
-  "generated_at": "25/12/2025 09:09",
+  "generated_at": "25/12/2025 11:02",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 2,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Rompin",
       "Main Basin Main Basin": "Sungai Rompin",
       "Sub River Basin Sub River Basin": "Sg. Keratong",
-      "Last Updated Last Updated": "25/12/2025 08:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 28.81,
+      "Last Updated Last Updated": "25/12/2025 10:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 28.78,
       "state_code": "PHG"
     },
     {
@@ -17,8 +17,8 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "25/12/2025 08:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.4,
+      "Last Updated Last Updated": "25/12/2025 10:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.47,
       "state_code": "PHG"
     }
   ],
@@ -29,8 +29,8 @@
         "District District": "Rompin",
         "Main Basin Main Basin": "Sungai Rompin",
         "Sub River Basin Sub River Basin": "Sg. Keratong",
-        "Last Updated Last Updated": "25/12/2025 08:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 28.81,
+        "Last Updated Last Updated": "25/12/2025 10:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 28.78,
         "state_code": "PHG"
       },
       {
@@ -38,8 +38,8 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "25/12/2025 08:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.4,
+        "Last Updated Last Updated": "25/12/2025 10:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.47,
         "state_code": "PHG"
       }
     ]
