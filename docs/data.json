@@ -1,14 +1,23 @@
 {
-  "generated_at": "26/12/2025 23:34",
+  "generated_at": "26/12/2025 23:50",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 3,
   "all": [
+    {
+      "Station Name Station Name": "Sg. Gombak di Jalan Tun Razak (F2)",
+      "District District": "Kuala Lumpur",
+      "Main Basin Main Basin": "Sungai Klang (WPKL)",
+      "Sub River Basin Sub River Basin": "Sg. Gombak",
+      "Last Updated Last Updated": "26/12/2025 23:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 35.39,
+      "state_code": "WLH"
+    },
     {
       "Station Name Station Name": "Sg. Keratong di Kg. Rekoh (F2)",
       "District District": "Rompin",
       "Main Basin Main Basin": "Sungai Rompin",
       "Sub River Basin Sub River Basin": "Sg. Keratong",
-      "Last Updated Last Updated": "26/12/2025 23:15",
+      "Last Updated Last Updated": "26/12/2025 23:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 28.47,
       "state_code": "PHG"
     },
@@ -23,13 +32,24 @@
     }
   ],
   "states": {
+    "WLH": [
+      {
+        "Station Name Station Name": "Sg. Gombak di Jalan Tun Razak (F2)",
+        "District District": "Kuala Lumpur",
+        "Main Basin Main Basin": "Sungai Klang (WPKL)",
+        "Sub River Basin Sub River Basin": "Sg. Gombak",
+        "Last Updated Last Updated": "26/12/2025 23:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 35.39,
+        "state_code": "WLH"
+      }
+    ],
     "PHG": [
       {
         "Station Name Station Name": "Sg. Keratong di Kg. Rekoh (F2)",
         "District District": "Rompin",
         "Main Basin Main Basin": "Sungai Rompin",
         "Sub River Basin Sub River Basin": "Sg. Keratong",
-        "Last Updated Last Updated": "26/12/2025 23:15",
+        "Last Updated Last Updated": "26/12/2025 23:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 28.47,
         "state_code": "PHG"
       },
