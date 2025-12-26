@@ -1,14 +1,14 @@
 {
-  "generated_at": "26/12/2025 21:55",
+  "generated_at": "26/12/2025 22:15",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 3,
   "all": [
     {
       "Station Name Station Name": "Sg. Keratong di Kg. Rekoh (F2)",
       "District District": "Rompin",
       "Main Basin Main Basin": "Sungai Rompin",
       "Sub River Basin Sub River Basin": "Sg. Keratong",
-      "Last Updated Last Updated": "26/12/2025 21:30",
+      "Last Updated Last Updated": "26/12/2025 21:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 28.48,
       "state_code": "PHG"
     },
@@ -20,6 +20,15 @@
       "Last Updated Last Updated": "26/12/2025 21:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 11.62,
       "state_code": "PHG"
+    },
+    {
+      "Station Name Station Name": "Kampung Entingan",
+      "District District": "Samarahan",
+      "Main Basin Main Basin": "Batang Samarahan",
+      "Sub River Basin Sub River Basin": "Sg. Entingan",
+      "Last Updated Last Updated": "26/12/2025 21:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.0,
+      "state_code": "SRK"
     }
   ],
   "states": {
@@ -29,7 +38,7 @@
         "District District": "Rompin",
         "Main Basin Main Basin": "Sungai Rompin",
         "Sub River Basin Sub River Basin": "Sg. Keratong",
-        "Last Updated Last Updated": "26/12/2025 21:30",
+        "Last Updated Last Updated": "26/12/2025 21:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 28.48,
         "state_code": "PHG"
       },
@@ -41,6 +50,17 @@
         "Last Updated Last Updated": "26/12/2025 21:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 11.62,
         "state_code": "PHG"
+      }
+    ],
+    "SRK": [
+      {
+        "Station Name Station Name": "Kampung Entingan",
+        "District District": "Samarahan",
+        "Main Basin Main Basin": "Batang Samarahan",
+        "Sub River Basin Sub River Basin": "Sg. Entingan",
+        "Last Updated Last Updated": "26/12/2025 21:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.0,
+        "state_code": "SRK"
       }
     ]
   }
