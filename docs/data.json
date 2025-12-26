@@ -1,5 +1,5 @@
 {
-  "generated_at": "26/12/2025 22:52",
+  "generated_at": "26/12/2025 23:15",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 3,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Rompin",
       "Main Basin Main Basin": "Sungai Rompin",
       "Sub River Basin Sub River Basin": "Sg. Keratong",
-      "Last Updated Last Updated": "26/12/2025 22:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 28.48,
+      "Last Updated Last Updated": "26/12/2025 22:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 28.47,
       "state_code": "PHG"
     },
     {
@@ -26,7 +26,7 @@
       "District District": "Samarahan",
       "Main Basin Main Basin": "Batang Samarahan",
       "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "26/12/2025 22:15",
+      "Last Updated Last Updated": "26/12/2025 22:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.09,
       "state_code": "SRK"
     }
@@ -38,8 +38,8 @@
         "District District": "Rompin",
         "Main Basin Main Basin": "Sungai Rompin",
         "Sub River Basin Sub River Basin": "Sg. Keratong",
-        "Last Updated Last Updated": "26/12/2025 22:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 28.48,
+        "Last Updated Last Updated": "26/12/2025 22:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 28.47,
         "state_code": "PHG"
       },
       {
@@ -58,7 +58,7 @@
         "District District": "Samarahan",
         "Main Basin Main Basin": "Batang Samarahan",
         "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "26/12/2025 22:15",
+        "Last Updated Last Updated": "26/12/2025 22:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.09,
         "state_code": "SRK"
       }
