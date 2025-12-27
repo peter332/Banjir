@@ -1,15 +1,24 @@
 {
-  "generated_at": "28/12/2025 05:12",
+  "generated_at": "28/12/2025 05:30",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 4,
+  "rows": 6,
   "all": [
+    {
+      "Station Name Station Name": "Sg. Gemencheh di Empang Sg. Dua (F2)",
+      "District District": "Tampin",
+      "Main Basin Main Basin": "Sungai Muar (NS)",
+      "Sub River Basin Sub River Basin": "Sg. Gemencheh",
+      "Last Updated Last Updated": "28/12/2025 03:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 39.73,
+      "state_code": "NSN"
+    },
     {
       "Station Name Station Name": "Sg. Tangkak di Kg. Seri Ma'amor",
       "District District": "Tangkak",
       "Main Basin Main Basin": "Sungai Kesang (Johor)",
       "Sub River Basin Sub River Basin": "Sg. Tangkak",
-      "Last Updated Last Updated": "28/12/2025 00:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.15,
+      "Last Updated Last Updated": "28/12/2025 03:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.19,
       "state_code": "JHR"
     },
     {
@@ -26,7 +35,7 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "28/12/2025 01:00",
+      "Last Updated Last Updated": "28/12/2025 03:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 11.25,
       "state_code": "PHG"
     },
@@ -35,20 +44,40 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "28/12/2025 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.83,
+      "Last Updated Last Updated": "28/12/2025 03:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.86,
+      "state_code": "SRK"
+    },
+    {
+      "Station Name Station Name": "Marudi",
+      "District District": "Miri",
+      "Main Basin Main Basin": "Batang Baram",
+      "Sub River Basin Sub River Basin": "Btg. Baram",
+      "Last Updated Last Updated": "28/12/2025 03:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.25,
       "state_code": "SRK"
     }
   ],
   "states": {
+    "NSN": [
+      {
+        "Station Name Station Name": "Sg. Gemencheh di Empang Sg. Dua (F2)",
+        "District District": "Tampin",
+        "Main Basin Main Basin": "Sungai Muar (NS)",
+        "Sub River Basin Sub River Basin": "Sg. Gemencheh",
+        "Last Updated Last Updated": "28/12/2025 03:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 39.73,
+        "state_code": "NSN"
+      }
+    ],
     "JHR": [
       {
         "Station Name Station Name": "Sg. Tangkak di Kg. Seri Ma'amor",
         "District District": "Tangkak",
         "Main Basin Main Basin": "Sungai Kesang (Johor)",
         "Sub River Basin Sub River Basin": "Sg. Tangkak",
-        "Last Updated Last Updated": "28/12/2025 00:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.15,
+        "Last Updated Last Updated": "28/12/2025 03:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.19,
         "state_code": "JHR"
       }
     ],
@@ -67,7 +96,7 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "28/12/2025 01:00",
+        "Last Updated Last Updated": "28/12/2025 03:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 11.25,
         "state_code": "PHG"
       }
@@ -78,8 +107,17 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "28/12/2025 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.83,
+        "Last Updated Last Updated": "28/12/2025 03:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.86,
+        "state_code": "SRK"
+      },
+      {
+        "Station Name Station Name": "Marudi",
+        "District District": "Miri",
+        "Main Basin Main Basin": "Batang Baram",
+        "Sub River Basin Sub River Basin": "Btg. Baram",
+        "Last Updated Last Updated": "28/12/2025 03:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.25,
         "state_code": "SRK"
       }
     ]
