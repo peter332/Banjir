@@ -1,5 +1,5 @@
 {
-  "generated_at": "27/12/2025 23:32",
+  "generated_at": "27/12/2025 23:48",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 4,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Tangkak",
       "Main Basin Main Basin": "Sungai Kesang (Johor)",
       "Sub River Basin Sub River Basin": "Sg. Tangkak",
-      "Last Updated Last Updated": "27/12/2025 22:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.02,
+      "Last Updated Last Updated": "27/12/2025 23:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.11,
       "state_code": "JHR"
     },
     {
@@ -35,8 +35,8 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "27/12/2025 23:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.8,
+      "Last Updated Last Updated": "27/12/2025 23:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.81,
       "state_code": "SRK"
     }
   ],
@@ -47,8 +47,8 @@
         "District District": "Tangkak",
         "Main Basin Main Basin": "Sungai Kesang (Johor)",
         "Sub River Basin Sub River Basin": "Sg. Tangkak",
-        "Last Updated Last Updated": "27/12/2025 22:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.02,
+        "Last Updated Last Updated": "27/12/2025 23:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.11,
         "state_code": "JHR"
       }
     ],
@@ -78,8 +78,8 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "27/12/2025 23:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.8,
+        "Last Updated Last Updated": "27/12/2025 23:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.81,
         "state_code": "SRK"
       }
     ]
