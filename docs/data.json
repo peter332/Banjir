@@ -1,5 +1,5 @@
 {
-  "generated_at": "28/12/2025 00:17",
+  "generated_at": "28/12/2025 00:45",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 4,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Tangkak",
       "Main Basin Main Basin": "Sungai Kesang (Johor)",
       "Sub River Basin Sub River Basin": "Sg. Tangkak",
-      "Last Updated Last Updated": "27/12/2025 23:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.11,
+      "Last Updated Last Updated": "28/12/2025 00:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.15,
       "state_code": "JHR"
     },
     {
@@ -26,8 +26,8 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "27/12/2025 23:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.29,
+      "Last Updated Last Updated": "28/12/2025 00:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.25,
       "state_code": "PHG"
     },
     {
@@ -35,8 +35,8 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "27/12/2025 23:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.81,
+      "Last Updated Last Updated": "28/12/2025 00:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.82,
       "state_code": "SRK"
     }
   ],
@@ -47,8 +47,8 @@
         "District District": "Tangkak",
         "Main Basin Main Basin": "Sungai Kesang (Johor)",
         "Sub River Basin Sub River Basin": "Sg. Tangkak",
-        "Last Updated Last Updated": "27/12/2025 23:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.11,
+        "Last Updated Last Updated": "28/12/2025 00:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.15,
         "state_code": "JHR"
       }
     ],
@@ -67,8 +67,8 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "27/12/2025 23:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.29,
+        "Last Updated Last Updated": "28/12/2025 00:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.25,
         "state_code": "PHG"
       }
     ],
@@ -78,8 +78,8 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "27/12/2025 23:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.81,
+        "Last Updated Last Updated": "28/12/2025 00:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.82,
         "state_code": "SRK"
       }
     ]
