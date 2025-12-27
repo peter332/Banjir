@@ -1,14 +1,14 @@
 {
-  "generated_at": "27/12/2025 18:36",
+  "generated_at": "27/12/2025 18:51",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 3,
   "all": [
     {
       "Station Name Station Name": "Sg. Luit di Kg. Subuh (F1)",
       "District District": "Maran",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Luit",
-      "Last Updated Last Updated": "27/12/2025 18:15",
+      "Last Updated Last Updated": "27/12/2025 18:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 28.14,
       "state_code": "PHG"
     },
@@ -20,6 +20,15 @@
       "Last Updated Last Updated": "27/12/2025 18:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 11.4,
       "state_code": "PHG"
+    },
+    {
+      "Station Name Station Name": "Nanga Lemai B",
+      "District District": "Sibu",
+      "Main Basin Main Basin": "Batang Balingian",
+      "Sub River Basin Sub River Basin": "Sg. Lemai",
+      "Last Updated Last Updated": "27/12/2025 18:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.8,
+      "state_code": "SRK"
     }
   ],
   "states": {
@@ -29,7 +38,7 @@
         "District District": "Maran",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Luit",
-        "Last Updated Last Updated": "27/12/2025 18:15",
+        "Last Updated Last Updated": "27/12/2025 18:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 28.14,
         "state_code": "PHG"
       },
@@ -41,6 +50,17 @@
         "Last Updated Last Updated": "27/12/2025 18:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 11.4,
         "state_code": "PHG"
+      }
+    ],
+    "SRK": [
+      {
+        "Station Name Station Name": "Nanga Lemai B",
+        "District District": "Sibu",
+        "Main Basin Main Basin": "Batang Balingian",
+        "Sub River Basin Sub River Basin": "Sg. Lemai",
+        "Last Updated Last Updated": "27/12/2025 18:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.8,
+        "state_code": "SRK"
       }
     ]
   }
