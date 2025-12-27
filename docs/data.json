@@ -1,33 +1,15 @@
 {
-  "generated_at": "27/12/2025 09:07",
+  "generated_at": "27/12/2025 10:58",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 5,
+  "rows": 4,
   "all": [
-    {
-      "Station Name Station Name": "Sg. Gemencheh di Empang Sg. Dua (F2)",
-      "District District": "Tampin",
-      "Main Basin Main Basin": "Sungai Muar (NS)",
-      "Sub River Basin Sub River Basin": "Sg. Gemencheh",
-      "Last Updated Last Updated": "27/12/2025 07:40",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 39.23,
-      "state_code": "NSN"
-    },
     {
       "Station Name Station Name": "Sg. Keratong di Kg. Rekoh (F2)",
       "District District": "Rompin",
       "Main Basin Main Basin": "Sungai Rompin",
       "Sub River Basin Sub River Basin": "Sg. Keratong",
-      "Last Updated Last Updated": "27/12/2025 07:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 28.92,
-      "state_code": "PHG"
-    },
-    {
-      "Station Name Station Name": "Sg. Tembeling di Kg. Bantal Seberang (F1)",
-      "District District": "Jerantut",
-      "Main Basin Main Basin": "Sungai Pahang",
-      "Sub River Basin Sub River Basin": "Sg. Tembeling",
-      "Last Updated Last Updated": "27/12/2025 07:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 106.02,
+      "Last Updated Last Updated": "27/12/2025 10:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 29.23,
       "state_code": "PHG"
     },
     {
@@ -35,8 +17,8 @@
       "District District": "Maran",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Luit",
-      "Last Updated Last Updated": "27/12/2025 07:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 28.28,
+      "Last Updated Last Updated": "27/12/2025 10:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 28.08,
       "state_code": "PHG"
     },
     {
@@ -44,40 +26,29 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "27/12/2025 08:00",
+      "Last Updated Last Updated": "27/12/2025 10:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 11.33,
       "state_code": "PHG"
+    },
+    {
+      "Station Name Station Name": "Nanga Lemai B",
+      "District District": "Sibu",
+      "Main Basin Main Basin": "Batang Balingian",
+      "Sub River Basin Sub River Basin": "Sg. Lemai",
+      "Last Updated Last Updated": "27/12/2025 10:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.8,
+      "state_code": "SRK"
     }
   ],
   "states": {
-    "NSN": [
-      {
-        "Station Name Station Name": "Sg. Gemencheh di Empang Sg. Dua (F2)",
-        "District District": "Tampin",
-        "Main Basin Main Basin": "Sungai Muar (NS)",
-        "Sub River Basin Sub River Basin": "Sg. Gemencheh",
-        "Last Updated Last Updated": "27/12/2025 07:40",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 39.23,
-        "state_code": "NSN"
-      }
-    ],
     "PHG": [
       {
         "Station Name Station Name": "Sg. Keratong di Kg. Rekoh (F2)",
         "District District": "Rompin",
         "Main Basin Main Basin": "Sungai Rompin",
         "Sub River Basin Sub River Basin": "Sg. Keratong",
-        "Last Updated Last Updated": "27/12/2025 07:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 28.92,
-        "state_code": "PHG"
-      },
-      {
-        "Station Name Station Name": "Sg. Tembeling di Kg. Bantal Seberang (F1)",
-        "District District": "Jerantut",
-        "Main Basin Main Basin": "Sungai Pahang",
-        "Sub River Basin Sub River Basin": "Sg. Tembeling",
-        "Last Updated Last Updated": "27/12/2025 07:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 106.02,
+        "Last Updated Last Updated": "27/12/2025 10:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 29.23,
         "state_code": "PHG"
       },
       {
@@ -85,8 +56,8 @@
         "District District": "Maran",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Luit",
-        "Last Updated Last Updated": "27/12/2025 07:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 28.28,
+        "Last Updated Last Updated": "27/12/2025 10:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 28.08,
         "state_code": "PHG"
       },
       {
@@ -94,9 +65,20 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "27/12/2025 08:00",
+        "Last Updated Last Updated": "27/12/2025 10:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 11.33,
         "state_code": "PHG"
+      }
+    ],
+    "SRK": [
+      {
+        "Station Name Station Name": "Nanga Lemai B",
+        "District District": "Sibu",
+        "Main Basin Main Basin": "Batang Balingian",
+        "Sub River Basin Sub River Basin": "Sg. Lemai",
+        "Last Updated Last Updated": "27/12/2025 10:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.8,
+        "state_code": "SRK"
       }
     ]
   }
