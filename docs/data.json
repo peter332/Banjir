@@ -1,5 +1,5 @@
 {
-  "generated_at": "27/12/2025 19:12",
+  "generated_at": "27/12/2025 19:28",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 2,
   "all": [
@@ -8,7 +8,7 @@
       "District District": "Maran",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Luit",
-      "Last Updated Last Updated": "27/12/2025 18:45",
+      "Last Updated Last Updated": "27/12/2025 19:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 28.13,
       "state_code": "PHG"
     },
@@ -17,8 +17,8 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "27/12/2025 18:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.4,
+      "Last Updated Last Updated": "27/12/2025 19:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.36,
       "state_code": "PHG"
     }
   ],
@@ -29,7 +29,7 @@
         "District District": "Maran",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Luit",
-        "Last Updated Last Updated": "27/12/2025 18:45",
+        "Last Updated Last Updated": "27/12/2025 19:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 28.13,
         "state_code": "PHG"
       },
@@ -38,8 +38,8 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "27/12/2025 18:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.4,
+        "Last Updated Last Updated": "27/12/2025 19:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.36,
         "state_code": "PHG"
       }
     ]
