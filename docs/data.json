@@ -1,5 +1,5 @@
 {
-  "generated_at": "28/12/2025 12:29",
+  "generated_at": "28/12/2025 13:00",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 6,
   "all": [
@@ -26,8 +26,8 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "28/12/2025 11:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.22,
+      "Last Updated Last Updated": "28/12/2025 12:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.29,
       "state_code": "PHG"
     },
     {
@@ -35,7 +35,7 @@
       "District District": "Rompin",
       "Main Basin Main Basin": "Sungai Rompin",
       "Sub River Basin Sub River Basin": "Sg. Pukin",
-      "Last Updated Last Updated": "28/12/2025 11:00",
+      "Last Updated Last Updated": "28/12/2025 12:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 45.41,
       "state_code": "PHG"
     },
@@ -44,7 +44,7 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "28/12/2025 12:00",
+      "Last Updated Last Updated": "28/12/2025 12:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.87,
       "state_code": "SRK"
     },
@@ -53,8 +53,8 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "28/12/2025 12:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.33,
+      "Last Updated Last Updated": "28/12/2025 12:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.34,
       "state_code": "SRK"
     }
   ],
@@ -85,8 +85,8 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "28/12/2025 11:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.22,
+        "Last Updated Last Updated": "28/12/2025 12:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.29,
         "state_code": "PHG"
       },
       {
@@ -94,7 +94,7 @@
         "District District": "Rompin",
         "Main Basin Main Basin": "Sungai Rompin",
         "Sub River Basin Sub River Basin": "Sg. Pukin",
-        "Last Updated Last Updated": "28/12/2025 11:00",
+        "Last Updated Last Updated": "28/12/2025 12:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 45.41,
         "state_code": "PHG"
       }
@@ -105,7 +105,7 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "28/12/2025 12:00",
+        "Last Updated Last Updated": "28/12/2025 12:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.87,
         "state_code": "SRK"
       },
@@ -114,8 +114,8 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "28/12/2025 12:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.33,
+        "Last Updated Last Updated": "28/12/2025 12:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.34,
         "state_code": "SRK"
       }
     ]
