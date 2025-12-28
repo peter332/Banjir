@@ -1,5 +1,5 @@
 {
-  "generated_at": "28/12/2025 19:12",
+  "generated_at": "28/12/2025 19:29",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 7,
   "all": [
@@ -8,7 +8,7 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Segamat",
-      "Last Updated Last Updated": "28/12/2025 18:15",
+      "Last Updated Last Updated": "28/12/2025 18:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 37.47,
       "state_code": "JHR"
     },
@@ -17,7 +17,7 @@
       "District District": "Tangkak",
       "Main Basin Main Basin": "Sungai Kesang (Johor)",
       "Sub River Basin Sub River Basin": "Sg. Tangkak",
-      "Last Updated Last Updated": "28/12/2025 18:15",
+      "Last Updated Last Updated": "28/12/2025 18:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.14,
       "state_code": "JHR"
     },
@@ -74,7 +74,7 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Segamat",
-        "Last Updated Last Updated": "28/12/2025 18:15",
+        "Last Updated Last Updated": "28/12/2025 18:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 37.47,
         "state_code": "JHR"
       },
@@ -83,7 +83,7 @@
         "District District": "Tangkak",
         "Main Basin Main Basin": "Sungai Kesang (Johor)",
         "Sub River Basin Sub River Basin": "Sg. Tangkak",
-        "Last Updated Last Updated": "28/12/2025 18:15",
+        "Last Updated Last Updated": "28/12/2025 18:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.14,
         "state_code": "JHR"
       }
