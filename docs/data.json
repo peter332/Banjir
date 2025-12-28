@@ -1,24 +1,15 @@
 {
-  "generated_at": "28/12/2025 21:07",
+  "generated_at": "28/12/2025 21:40",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 7,
+  "rows": 5,
   "all": [
     {
       "Station Name Station Name": "Sg. Muar di Kg. Awat",
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "28/12/2025 20:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 19.96,
-      "state_code": "JHR"
-    },
-    {
-      "Station Name Station Name": "Sg. Segamat di Segamat Kecil",
-      "District District": "Segamat",
-      "Main Basin Main Basin": "Sungai Muar",
-      "Sub River Basin Sub River Basin": "Sg. Segamat",
-      "Last Updated Last Updated": "28/12/2025 20:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 37.36,
+      "Last Updated Last Updated": "28/12/2025 21:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 20.0,
       "state_code": "JHR"
     },
     {
@@ -26,8 +17,8 @@
       "District District": "Tangkak",
       "Main Basin Main Basin": "Sungai Kesang (Johor)",
       "Sub River Basin Sub River Basin": "Sg. Tangkak",
-      "Last Updated Last Updated": "28/12/2025 20:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.12,
+      "Last Updated Last Updated": "28/12/2025 21:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.11,
       "state_code": "JHR"
     },
     {
@@ -35,8 +26,8 @@
       "District District": "Pekan",
       "Main Basin Main Basin": "Sungai Pahang",
       "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "28/12/2025 20:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.51,
+      "Last Updated Last Updated": "28/12/2025 21:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.47,
       "state_code": "PHG"
     },
     {
@@ -44,25 +35,16 @@
       "District District": "Rompin",
       "Main Basin Main Basin": "Sungai Rompin",
       "Sub River Basin Sub River Basin": "Sg. Pukin",
-      "Last Updated Last Updated": "28/12/2025 20:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 45.04,
+      "Last Updated Last Updated": "28/12/2025 21:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 45.01,
       "state_code": "PHG"
-    },
-    {
-      "Station Name Station Name": "Nanga Lemai B",
-      "District District": "Sibu",
-      "Main Basin Main Basin": "Batang Balingian",
-      "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "28/12/2025 20:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.8,
-      "state_code": "SRK"
     },
     {
       "Station Name Station Name": "Marudi",
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "28/12/2025 20:30",
+      "Last Updated Last Updated": "28/12/2025 21:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.36,
       "state_code": "SRK"
     }
@@ -74,17 +56,8 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "28/12/2025 20:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 19.96,
-        "state_code": "JHR"
-      },
-      {
-        "Station Name Station Name": "Sg. Segamat di Segamat Kecil",
-        "District District": "Segamat",
-        "Main Basin Main Basin": "Sungai Muar",
-        "Sub River Basin Sub River Basin": "Sg. Segamat",
-        "Last Updated Last Updated": "28/12/2025 20:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 37.36,
+        "Last Updated Last Updated": "28/12/2025 21:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 20.0,
         "state_code": "JHR"
       },
       {
@@ -92,8 +65,8 @@
         "District District": "Tangkak",
         "Main Basin Main Basin": "Sungai Kesang (Johor)",
         "Sub River Basin Sub River Basin": "Sg. Tangkak",
-        "Last Updated Last Updated": "28/12/2025 20:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.12,
+        "Last Updated Last Updated": "28/12/2025 21:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.11,
         "state_code": "JHR"
       }
     ],
@@ -103,8 +76,8 @@
         "District District": "Pekan",
         "Main Basin Main Basin": "Sungai Pahang",
         "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "28/12/2025 20:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.51,
+        "Last Updated Last Updated": "28/12/2025 21:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.47,
         "state_code": "PHG"
       },
       {
@@ -112,27 +85,18 @@
         "District District": "Rompin",
         "Main Basin Main Basin": "Sungai Rompin",
         "Sub River Basin Sub River Basin": "Sg. Pukin",
-        "Last Updated Last Updated": "28/12/2025 20:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 45.04,
+        "Last Updated Last Updated": "28/12/2025 21:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 45.01,
         "state_code": "PHG"
       }
     ],
     "SRK": [
       {
-        "Station Name Station Name": "Nanga Lemai B",
-        "District District": "Sibu",
-        "Main Basin Main Basin": "Batang Balingian",
-        "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "28/12/2025 20:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.8,
-        "state_code": "SRK"
-      },
-      {
         "Station Name Station Name": "Marudi",
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "28/12/2025 20:30",
+        "Last Updated Last Updated": "28/12/2025 21:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.36,
         "state_code": "SRK"
       }
