@@ -1,14 +1,23 @@
 {
-  "generated_at": "29/12/2025 13:58",
+  "generated_at": "29/12/2025 14:38",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 3,
   "all": [
+    {
+      "Station Name Station Name": "Sg. Gemas di Kg. Tiong (F2)",
+      "District District": "Tampin",
+      "Main Basin Main Basin": "Sungai Muar (NS)",
+      "Sub River Basin Sub River Basin": "Sg. Gemas",
+      "Last Updated Last Updated": "29/12/2025 14:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 24.65,
+      "state_code": "NSN"
+    },
     {
       "Station Name Station Name": "Sg. Muar di Kg. Awat",
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "29/12/2025 13:15",
+      "Last Updated Last Updated": "29/12/2025 14:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 20.12,
       "state_code": "JHR"
     },
@@ -23,13 +32,24 @@
     }
   ],
   "states": {
+    "NSN": [
+      {
+        "Station Name Station Name": "Sg. Gemas di Kg. Tiong (F2)",
+        "District District": "Tampin",
+        "Main Basin Main Basin": "Sungai Muar (NS)",
+        "Sub River Basin Sub River Basin": "Sg. Gemas",
+        "Last Updated Last Updated": "29/12/2025 14:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 24.65,
+        "state_code": "NSN"
+      }
+    ],
     "JHR": [
       {
         "Station Name Station Name": "Sg. Muar di Kg. Awat",
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "29/12/2025 13:15",
+        "Last Updated Last Updated": "29/12/2025 14:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 20.12,
         "state_code": "JHR"
       }
