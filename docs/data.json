@@ -1,25 +1,16 @@
 {
-  "generated_at": "29/12/2025 09:15",
+  "generated_at": "29/12/2025 11:17",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 3,
+  "rows": 2,
   "all": [
     {
       "Station Name Station Name": "Sg. Muar di Kg. Awat",
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "29/12/2025 08:30",
+      "Last Updated Last Updated": "29/12/2025 10:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 20.12,
       "state_code": "JHR"
-    },
-    {
-      "Station Name Station Name": "Sg. Pahang di Paloh Hinai",
-      "District District": "Pekan",
-      "Main Basin Main Basin": "Sungai Pahang",
-      "Sub River Basin Sub River Basin": "Sg. Pahang",
-      "Last Updated Last Updated": "29/12/2025 08:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 11.22,
-      "state_code": "PHG"
     },
     {
       "Station Name Station Name": "Marudi",
@@ -38,20 +29,9 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "29/12/2025 08:30",
+        "Last Updated Last Updated": "29/12/2025 10:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 20.12,
         "state_code": "JHR"
-      }
-    ],
-    "PHG": [
-      {
-        "Station Name Station Name": "Sg. Pahang di Paloh Hinai",
-        "District District": "Pekan",
-        "Main Basin Main Basin": "Sungai Pahang",
-        "Sub River Basin Sub River Basin": "Sg. Pahang",
-        "Last Updated Last Updated": "29/12/2025 08:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 11.22,
-        "state_code": "PHG"
       }
     ],
     "SRK": [
