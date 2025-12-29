@@ -1,15 +1,15 @@
 {
-  "generated_at": "29/12/2025 20:31",
+  "generated_at": "29/12/2025 21:25",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 4,
+  "rows": 5,
   "all": [
     {
       "Station Name Station Name": "Sg. Gemas di Kg. Tiong (F2)",
       "District District": "Tampin",
       "Main Basin Main Basin": "Sungai Muar (NS)",
       "Sub River Basin Sub River Basin": "Sg. Gemas",
-      "Last Updated Last Updated": "29/12/2025 20:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 24.25,
+      "Last Updated Last Updated": "29/12/2025 21:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 24.19,
       "state_code": "NSN"
     },
     {
@@ -17,8 +17,8 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "29/12/2025 19:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 20.09,
+      "Last Updated Last Updated": "29/12/2025 20:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 20.08,
       "state_code": "JHR"
     },
     {
@@ -26,8 +26,8 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "29/12/2025 19:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.02,
+      "Last Updated Last Updated": "29/12/2025 20:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.03,
       "state_code": "JHR"
     },
     {
@@ -35,9 +35,18 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "29/12/2025 20:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.28,
+      "Last Updated Last Updated": "29/12/2025 21:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.29,
       "state_code": "SRK"
+    },
+    {
+      "Station Name Station Name": "Sg. Moyog di Penampang (RHN)",
+      "District District": "Penampang",
+      "Main Basin Main Basin": "Sungai Moyog",
+      "Sub River Basin Sub River Basin": "Sg. Moyog",
+      "Last Updated Last Updated": "29/12/2025 21:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.12,
+      "state_code": "SAB"
     }
   ],
   "states": {
@@ -47,8 +56,8 @@
         "District District": "Tampin",
         "Main Basin Main Basin": "Sungai Muar (NS)",
         "Sub River Basin Sub River Basin": "Sg. Gemas",
-        "Last Updated Last Updated": "29/12/2025 20:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 24.25,
+        "Last Updated Last Updated": "29/12/2025 21:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 24.19,
         "state_code": "NSN"
       }
     ],
@@ -58,8 +67,8 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "29/12/2025 19:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 20.09,
+        "Last Updated Last Updated": "29/12/2025 20:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 20.08,
         "state_code": "JHR"
       },
       {
@@ -67,8 +76,8 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "29/12/2025 19:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.02,
+        "Last Updated Last Updated": "29/12/2025 20:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.03,
         "state_code": "JHR"
       }
     ],
@@ -78,9 +87,20 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "29/12/2025 20:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.28,
+        "Last Updated Last Updated": "29/12/2025 21:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.29,
         "state_code": "SRK"
+      }
+    ],
+    "SAB": [
+      {
+        "Station Name Station Name": "Sg. Moyog di Penampang (RHN)",
+        "District District": "Penampang",
+        "Main Basin Main Basin": "Sungai Moyog",
+        "Sub River Basin Sub River Basin": "Sg. Moyog",
+        "Last Updated Last Updated": "29/12/2025 21:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.12,
+        "state_code": "SAB"
       }
     ]
   }
