@@ -1,5 +1,5 @@
 {
-  "generated_at": "29/12/2025 16:55",
+  "generated_at": "29/12/2025 17:24",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 3,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Tampin",
       "Main Basin Main Basin": "Sungai Muar (NS)",
       "Sub River Basin Sub River Basin": "Sg. Gemas",
-      "Last Updated Last Updated": "29/12/2025 16:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 24.52,
+      "Last Updated Last Updated": "29/12/2025 17:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 24.46,
       "state_code": "NSN"
     },
     {
@@ -17,7 +17,7 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "29/12/2025 16:15",
+      "Last Updated Last Updated": "29/12/2025 16:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 20.11,
       "state_code": "JHR"
     },
@@ -38,8 +38,8 @@
         "District District": "Tampin",
         "Main Basin Main Basin": "Sungai Muar (NS)",
         "Sub River Basin Sub River Basin": "Sg. Gemas",
-        "Last Updated Last Updated": "29/12/2025 16:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 24.52,
+        "Last Updated Last Updated": "29/12/2025 17:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 24.46,
         "state_code": "NSN"
       }
     ],
@@ -49,7 +49,7 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "29/12/2025 16:15",
+        "Last Updated Last Updated": "29/12/2025 16:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 20.11,
         "state_code": "JHR"
       }
