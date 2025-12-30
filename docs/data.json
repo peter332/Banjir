@@ -1,7 +1,7 @@
 {
-  "generated_at": "31/12/2025 04:16",
+  "generated_at": "31/12/2025 04:43",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 3,
+  "rows": 5,
   "all": [
     {
       "Station Name Station Name": "Sg. Gemas di Kg. Tiong (F2)",
@@ -17,16 +17,34 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "31/12/2025 04:00",
+      "Last Updated Last Updated": "31/12/2025 04:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.16,
       "state_code": "JHR"
+    },
+    {
+      "Station Name Station Name": "Desa Wira",
+      "District District": "Kuching",
+      "Main Basin Main Basin": "Sungai Sarawak",
+      "Sub River Basin Sub River Basin": "Sg. Sarawak",
+      "Last Updated Last Updated": "31/12/2025 04:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.69,
+      "state_code": "SRK"
+    },
+    {
+      "Station Name Station Name": "Long Teru",
+      "District District": "Miri",
+      "Main Basin Main Basin": "Batang Baram",
+      "Sub River Basin Sub River Basin": "Sg. Tinjar",
+      "Last Updated Last Updated": "31/12/2025 04:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.02,
+      "state_code": "SRK"
     },
     {
       "Station Name Station Name": "Marudi",
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "31/12/2025 03:45",
+      "Last Updated Last Updated": "31/12/2025 04:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.54,
       "state_code": "SRK"
     }
@@ -49,18 +67,36 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "31/12/2025 04:00",
+        "Last Updated Last Updated": "31/12/2025 04:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.16,
         "state_code": "JHR"
       }
     ],
     "SRK": [
       {
+        "Station Name Station Name": "Desa Wira",
+        "District District": "Kuching",
+        "Main Basin Main Basin": "Sungai Sarawak",
+        "Sub River Basin Sub River Basin": "Sg. Sarawak",
+        "Last Updated Last Updated": "31/12/2025 04:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.69,
+        "state_code": "SRK"
+      },
+      {
+        "Station Name Station Name": "Long Teru",
+        "District District": "Miri",
+        "Main Basin Main Basin": "Batang Baram",
+        "Sub River Basin Sub River Basin": "Sg. Tinjar",
+        "Last Updated Last Updated": "31/12/2025 04:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.02,
+        "state_code": "SRK"
+      },
+      {
         "Station Name Station Name": "Marudi",
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "31/12/2025 03:45",
+        "Last Updated Last Updated": "31/12/2025 04:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.54,
         "state_code": "SRK"
       }
