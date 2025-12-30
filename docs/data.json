@@ -1,23 +1,14 @@
 {
-  "generated_at": "31/12/2025 06:14",
+  "generated_at": "31/12/2025 06:35",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 5,
+  "rows": 4,
   "all": [
-    {
-      "Station Name Station Name": "Sg. Gemas di Kg. Tiong (F2)",
-      "District District": "Tampin",
-      "Main Basin Main Basin": "Sungai Muar (NS)",
-      "Sub River Basin Sub River Basin": "Sg. Gemas",
-      "Last Updated Last Updated": "31/12/2025 05:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 22.51,
-      "state_code": "NSN"
-    },
     {
       "Station Name Station Name": "Sg. Muar di Buloh Kasap",
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "31/12/2025 05:15",
+      "Last Updated Last Updated": "31/12/2025 05:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 9.14,
       "state_code": "JHR"
     },
@@ -26,7 +17,7 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "31/12/2025 05:15",
+      "Last Updated Last Updated": "31/12/2025 05:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.15,
       "state_code": "JHR"
     },
@@ -35,8 +26,8 @@
       "District District": "Kuching",
       "Main Basin Main Basin": "Sungai Sarawak",
       "Sub River Basin Sub River Basin": "Sg. Sarawak",
-      "Last Updated Last Updated": "31/12/2025 05:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.89,
+      "Last Updated Last Updated": "31/12/2025 06:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.86,
       "state_code": "SRK"
     },
     {
@@ -44,30 +35,19 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "31/12/2025 05:45",
+      "Last Updated Last Updated": "31/12/2025 06:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.54,
       "state_code": "SRK"
     }
   ],
   "states": {
-    "NSN": [
-      {
-        "Station Name Station Name": "Sg. Gemas di Kg. Tiong (F2)",
-        "District District": "Tampin",
-        "Main Basin Main Basin": "Sungai Muar (NS)",
-        "Sub River Basin Sub River Basin": "Sg. Gemas",
-        "Last Updated Last Updated": "31/12/2025 05:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 22.51,
-        "state_code": "NSN"
-      }
-    ],
     "JHR": [
       {
         "Station Name Station Name": "Sg. Muar di Buloh Kasap",
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "31/12/2025 05:15",
+        "Last Updated Last Updated": "31/12/2025 05:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 9.14,
         "state_code": "JHR"
       },
@@ -76,7 +56,7 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "31/12/2025 05:15",
+        "Last Updated Last Updated": "31/12/2025 05:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.15,
         "state_code": "JHR"
       }
@@ -87,8 +67,8 @@
         "District District": "Kuching",
         "Main Basin Main Basin": "Sungai Sarawak",
         "Sub River Basin Sub River Basin": "Sg. Sarawak",
-        "Last Updated Last Updated": "31/12/2025 05:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.89,
+        "Last Updated Last Updated": "31/12/2025 06:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.86,
         "state_code": "SRK"
       },
       {
@@ -96,7 +76,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "31/12/2025 05:45",
+        "Last Updated Last Updated": "31/12/2025 06:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.54,
         "state_code": "SRK"
       }
