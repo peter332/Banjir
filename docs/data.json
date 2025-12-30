@@ -1,7 +1,7 @@
 {
-  "generated_at": "31/12/2025 01:15",
+  "generated_at": "31/12/2025 01:42",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 3,
   "all": [
     {
       "Station Name Station Name": "Sg. Gemas di Kg. Tiong (F2)",
@@ -17,9 +17,18 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "31/12/2025 00:45",
+      "Last Updated Last Updated": "31/12/2025 00:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.16,
       "state_code": "JHR"
+    },
+    {
+      "Station Name Station Name": "Marudi",
+      "District District": "Miri",
+      "Main Basin Main Basin": "Batang Baram",
+      "Sub River Basin Sub River Basin": "Btg. Baram",
+      "Last Updated Last Updated": "31/12/2025 01:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.51,
+      "state_code": "SRK"
     }
   ],
   "states": {
@@ -40,9 +49,20 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "31/12/2025 00:45",
+        "Last Updated Last Updated": "31/12/2025 00:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.16,
         "state_code": "JHR"
+      }
+    ],
+    "SRK": [
+      {
+        "Station Name Station Name": "Marudi",
+        "District District": "Miri",
+        "Main Basin Main Basin": "Batang Baram",
+        "Sub River Basin Sub River Basin": "Btg. Baram",
+        "Last Updated Last Updated": "31/12/2025 01:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.51,
+        "state_code": "SRK"
       }
     ]
   }
