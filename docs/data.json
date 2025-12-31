@@ -1,15 +1,15 @@
 {
-  "generated_at": "01/01/2026 04:53",
+  "generated_at": "01/01/2026 05:13",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 6,
+  "rows": 7,
   "all": [
     {
       "Station Name Station Name": "Sg. Slim di Slim River",
       "District District": "Muallim",
       "Main Basin Main Basin": "Sungai Bernam (Perak)",
       "Sub River Basin Sub River Basin": "Sg. Slim",
-      "Last Updated Last Updated": "01/01/2026 03:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 25.92,
+      "Last Updated Last Updated": "01/01/2026 05:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 25.8,
       "state_code": "PRK"
     },
     {
@@ -35,8 +35,17 @@
       "District District": "Kuching",
       "Main Basin Main Basin": "Sungai Sarawak",
       "Sub River Basin Sub River Basin": "Sg. Sarawak",
-      "Last Updated Last Updated": "01/01/2026 03:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.19,
+      "Last Updated Last Updated": "01/01/2026 04:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.13,
+      "state_code": "SRK"
+    },
+    {
+      "Station Name Station Name": "Nanga Lemai B",
+      "District District": "Sibu",
+      "Main Basin Main Basin": "Batang Balingian",
+      "Sub River Basin Sub River Basin": "Sg. Lemai",
+      "Last Updated Last Updated": "01/01/2026 04:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.81,
       "state_code": "SRK"
     },
     {
@@ -44,7 +53,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "01/01/2026 03:30",
+      "Last Updated Last Updated": "01/01/2026 04:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 8.1,
       "state_code": "SRK"
     },
@@ -53,7 +62,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "01/01/2026 03:30",
+      "Last Updated Last Updated": "01/01/2026 04:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.62,
       "state_code": "SRK"
     }
@@ -65,8 +74,8 @@
         "District District": "Muallim",
         "Main Basin Main Basin": "Sungai Bernam (Perak)",
         "Sub River Basin Sub River Basin": "Sg. Slim",
-        "Last Updated Last Updated": "01/01/2026 03:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 25.92,
+        "Last Updated Last Updated": "01/01/2026 05:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 25.8,
         "state_code": "PRK"
       }
     ],
@@ -96,8 +105,17 @@
         "District District": "Kuching",
         "Main Basin Main Basin": "Sungai Sarawak",
         "Sub River Basin Sub River Basin": "Sg. Sarawak",
-        "Last Updated Last Updated": "01/01/2026 03:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.19,
+        "Last Updated Last Updated": "01/01/2026 04:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.13,
+        "state_code": "SRK"
+      },
+      {
+        "Station Name Station Name": "Nanga Lemai B",
+        "District District": "Sibu",
+        "Main Basin Main Basin": "Batang Balingian",
+        "Sub River Basin Sub River Basin": "Sg. Lemai",
+        "Last Updated Last Updated": "01/01/2026 04:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.81,
         "state_code": "SRK"
       },
       {
@@ -105,7 +123,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "01/01/2026 03:30",
+        "Last Updated Last Updated": "01/01/2026 04:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 8.1,
         "state_code": "SRK"
       },
@@ -114,7 +132,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "01/01/2026 03:30",
+        "Last Updated Last Updated": "01/01/2026 04:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.62,
         "state_code": "SRK"
       }
