@@ -1,5 +1,5 @@
 {
-  "generated_at": "31/12/2025 16:21",
+  "generated_at": "31/12/2025 16:50",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 4,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "31/12/2025 15:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 9.19,
+      "Last Updated Last Updated": "31/12/2025 16:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 9.18,
       "state_code": "JHR"
     },
     {
@@ -17,8 +17,8 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "31/12/2025 15:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.13,
+      "Last Updated Last Updated": "31/12/2025 16:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.12,
       "state_code": "JHR"
     },
     {
@@ -26,7 +26,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "31/12/2025 16:00",
+      "Last Updated Last Updated": "31/12/2025 16:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 8.01,
       "state_code": "SRK"
     },
@@ -35,7 +35,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "31/12/2025 16:00",
+      "Last Updated Last Updated": "31/12/2025 16:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.55,
       "state_code": "SRK"
     }
@@ -47,8 +47,8 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "31/12/2025 15:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 9.19,
+        "Last Updated Last Updated": "31/12/2025 16:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 9.18,
         "state_code": "JHR"
       },
       {
@@ -56,8 +56,8 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "31/12/2025 15:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.13,
+        "Last Updated Last Updated": "31/12/2025 16:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.12,
         "state_code": "JHR"
       }
     ],
@@ -67,7 +67,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "31/12/2025 16:00",
+        "Last Updated Last Updated": "31/12/2025 16:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 8.01,
         "state_code": "SRK"
       },
@@ -76,7 +76,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "31/12/2025 16:00",
+        "Last Updated Last Updated": "31/12/2025 16:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.55,
         "state_code": "SRK"
       }
