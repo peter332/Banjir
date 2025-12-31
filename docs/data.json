@@ -1,14 +1,23 @@
 {
-  "generated_at": "31/12/2025 23:15",
+  "generated_at": "31/12/2025 23:35",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 4,
+  "rows": 5,
   "all": [
+    {
+      "Station Name Station Name": "Sg. Slim di Slim River",
+      "District District": "Muallim",
+      "Main Basin Main Basin": "Sungai Bernam (Perak)",
+      "Sub River Basin Sub River Basin": "Sg. Slim",
+      "Last Updated Last Updated": "31/12/2025 23:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 25.47,
+      "state_code": "PRK"
+    },
     {
       "Station Name Station Name": "Sg. Muar di Buloh Kasap",
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "31/12/2025 22:30",
+      "Last Updated Last Updated": "31/12/2025 22:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 9.21,
       "state_code": "JHR"
     },
@@ -17,7 +26,7 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "31/12/2025 22:30",
+      "Last Updated Last Updated": "31/12/2025 22:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.11,
       "state_code": "JHR"
     },
@@ -26,8 +35,8 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "31/12/2025 22:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.06,
+      "Last Updated Last Updated": "31/12/2025 23:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.07,
       "state_code": "SRK"
     },
     {
@@ -35,19 +44,30 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "31/12/2025 22:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.58,
+      "Last Updated Last Updated": "31/12/2025 23:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.59,
       "state_code": "SRK"
     }
   ],
   "states": {
+    "PRK": [
+      {
+        "Station Name Station Name": "Sg. Slim di Slim River",
+        "District District": "Muallim",
+        "Main Basin Main Basin": "Sungai Bernam (Perak)",
+        "Sub River Basin Sub River Basin": "Sg. Slim",
+        "Last Updated Last Updated": "31/12/2025 23:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 25.47,
+        "state_code": "PRK"
+      }
+    ],
     "JHR": [
       {
         "Station Name Station Name": "Sg. Muar di Buloh Kasap",
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "31/12/2025 22:30",
+        "Last Updated Last Updated": "31/12/2025 22:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 9.21,
         "state_code": "JHR"
       },
@@ -56,7 +76,7 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "31/12/2025 22:30",
+        "Last Updated Last Updated": "31/12/2025 22:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.11,
         "state_code": "JHR"
       }
@@ -67,8 +87,8 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "31/12/2025 22:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.06,
+        "Last Updated Last Updated": "31/12/2025 23:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.07,
         "state_code": "SRK"
       },
       {
@@ -76,8 +96,8 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "31/12/2025 22:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.58,
+        "Last Updated Last Updated": "31/12/2025 23:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.59,
         "state_code": "SRK"
       }
     ]
