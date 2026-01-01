@@ -1,5 +1,5 @@
 {
-  "generated_at": "01/01/2026 19:42",
+  "generated_at": "01/01/2026 19:50",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 6,
   "all": [
@@ -8,7 +8,7 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "01/01/2026 19:00",
+      "Last Updated Last Updated": "01/01/2026 19:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 9.16,
       "state_code": "JHR"
     },
@@ -17,7 +17,7 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "01/01/2026 19:00",
+      "Last Updated Last Updated": "01/01/2026 19:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.05,
       "state_code": "JHR"
     },
@@ -65,7 +65,7 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "01/01/2026 19:00",
+        "Last Updated Last Updated": "01/01/2026 19:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 9.16,
         "state_code": "JHR"
       },
@@ -74,7 +74,7 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "01/01/2026 19:00",
+        "Last Updated Last Updated": "01/01/2026 19:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.05,
         "state_code": "JHR"
       }
