@@ -1,15 +1,15 @@
 {
-  "generated_at": "01/01/2026 15:20",
+  "generated_at": "01/01/2026 15:41",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 5,
+  "rows": 6,
   "all": [
     {
       "Station Name Station Name": "Sg. Muar di Buloh Kasap",
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "01/01/2026 14:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 9.17,
+      "Last Updated Last Updated": "01/01/2026 15:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 9.16,
       "state_code": "JHR"
     },
     {
@@ -17,7 +17,7 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "01/01/2026 15:00",
+      "Last Updated Last Updated": "01/01/2026 15:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.07,
       "state_code": "JHR"
     },
@@ -26,7 +26,7 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "01/01/2026 15:00",
+      "Last Updated Last Updated": "01/01/2026 15:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.15,
       "state_code": "SRK"
     },
@@ -35,7 +35,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "01/01/2026 15:00",
+      "Last Updated Last Updated": "01/01/2026 15:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 8.17,
       "state_code": "SRK"
     },
@@ -44,8 +44,17 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
+      "Last Updated Last Updated": "01/01/2026 15:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.59,
+      "state_code": "SRK"
+    },
+    {
+      "Station Name Station Name": "Kampung Entingan",
+      "District District": "Samarahan",
+      "Main Basin Main Basin": "Batang Samarahan",
+      "Sub River Basin Sub River Basin": "Sg. Entingan",
       "Last Updated Last Updated": "01/01/2026 15:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.58,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.04,
       "state_code": "SRK"
     }
   ],
@@ -56,8 +65,8 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "01/01/2026 14:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 9.17,
+        "Last Updated Last Updated": "01/01/2026 15:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 9.16,
         "state_code": "JHR"
       },
       {
@@ -65,7 +74,7 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "01/01/2026 15:00",
+        "Last Updated Last Updated": "01/01/2026 15:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.07,
         "state_code": "JHR"
       }
@@ -76,7 +85,7 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "01/01/2026 15:00",
+        "Last Updated Last Updated": "01/01/2026 15:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.15,
         "state_code": "SRK"
       },
@@ -85,7 +94,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "01/01/2026 15:00",
+        "Last Updated Last Updated": "01/01/2026 15:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 8.17,
         "state_code": "SRK"
       },
@@ -94,8 +103,17 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
+        "Last Updated Last Updated": "01/01/2026 15:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.59,
+        "state_code": "SRK"
+      },
+      {
+        "Station Name Station Name": "Kampung Entingan",
+        "District District": "Samarahan",
+        "Main Basin Main Basin": "Batang Samarahan",
+        "Sub River Basin Sub River Basin": "Sg. Entingan",
         "Last Updated Last Updated": "01/01/2026 15:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.58,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.04,
         "state_code": "SRK"
       }
     ]
