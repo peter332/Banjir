@@ -1,5 +1,5 @@
 {
-  "generated_at": "01/01/2026 13:05",
+  "generated_at": "01/01/2026 13:43",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 5,
   "all": [
@@ -9,7 +9,7 @@
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
       "Last Updated Last Updated": "01/01/2026 12:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 9.19,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 9.18,
       "state_code": "JHR"
     },
     {
@@ -36,7 +36,7 @@
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
       "Last Updated Last Updated": "01/01/2026 12:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.13,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.22,
       "state_code": "SRK"
     },
     {
@@ -45,7 +45,7 @@
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
       "Last Updated Last Updated": "01/01/2026 12:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.58,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.57,
       "state_code": "SRK"
     }
   ],
@@ -57,7 +57,7 @@
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
         "Last Updated Last Updated": "01/01/2026 12:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 9.19,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 9.18,
         "state_code": "JHR"
       },
       {
@@ -86,7 +86,7 @@
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
         "Last Updated Last Updated": "01/01/2026 12:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.13,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.22,
         "state_code": "SRK"
       },
       {
@@ -95,7 +95,7 @@
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
         "Last Updated Last Updated": "01/01/2026 12:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.58,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.57,
         "state_code": "SRK"
       }
     ]
