@@ -1,5 +1,5 @@
 {
-  "generated_at": "02/01/2026 22:54",
+  "generated_at": "02/01/2026 23:15",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 9,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Perak Tengah",
       "Main Basin Main Basin": "Sungai Perak",
       "Sub River Basin Sub River Basin": "Sg. Perak",
-      "Last Updated Last Updated": "02/01/2026 22:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 13.2,
+      "Last Updated Last Updated": "02/01/2026 23:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 13.19,
       "state_code": "PRK"
     },
     {
@@ -17,7 +17,7 @@
       "District District": "Segamat",
       "Main Basin Main Basin": "Sungai Muar",
       "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "02/01/2026 22:00",
+      "Last Updated Last Updated": "02/01/2026 22:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.01,
       "state_code": "JHR"
     },
@@ -26,7 +26,7 @@
       "District District": "Mersing",
       "Main Basin Main Basin": "Sungai Endau",
       "Sub River Basin Sub River Basin": "Sg. Endau",
-      "Last Updated Last Updated": "02/01/2026 22:00",
+      "Last Updated Last Updated": "02/01/2026 22:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 2.25,
       "state_code": "JHR"
     },
@@ -80,8 +80,8 @@
       "District District": "Betong",
       "Main Basin Main Basin": "Batang Krian",
       "Sub River Basin Sub River Basin": "Sg. Sebemban",
-      "Last Updated Last Updated": "02/01/2026 22:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.57,
+      "Last Updated Last Updated": "02/01/2026 22:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.59,
       "state_code": "SRK"
     }
   ],
@@ -92,8 +92,8 @@
         "District District": "Perak Tengah",
         "Main Basin Main Basin": "Sungai Perak",
         "Sub River Basin Sub River Basin": "Sg. Perak",
-        "Last Updated Last Updated": "02/01/2026 22:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 13.2,
+        "Last Updated Last Updated": "02/01/2026 23:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 13.19,
         "state_code": "PRK"
       }
     ],
@@ -103,7 +103,7 @@
         "District District": "Segamat",
         "Main Basin Main Basin": "Sungai Muar",
         "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "02/01/2026 22:00",
+        "Last Updated Last Updated": "02/01/2026 22:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.01,
         "state_code": "JHR"
       },
@@ -112,7 +112,7 @@
         "District District": "Mersing",
         "Main Basin Main Basin": "Sungai Endau",
         "Sub River Basin Sub River Basin": "Sg. Endau",
-        "Last Updated Last Updated": "02/01/2026 22:00",
+        "Last Updated Last Updated": "02/01/2026 22:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 2.25,
         "state_code": "JHR"
       }
@@ -168,8 +168,8 @@
         "District District": "Betong",
         "Main Basin Main Basin": "Batang Krian",
         "Sub River Basin Sub River Basin": "Sg. Sebemban",
-        "Last Updated Last Updated": "02/01/2026 22:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.57,
+        "Last Updated Last Updated": "02/01/2026 22:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.59,
         "state_code": "SRK"
       }
     ]
