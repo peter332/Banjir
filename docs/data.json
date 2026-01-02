@@ -1,5 +1,5 @@
 {
-  "generated_at": "03/01/2026 02:21",
+  "generated_at": "03/01/2026 02:50",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 7,
   "all": [
@@ -9,7 +9,7 @@
       "Main Basin Main Basin": "Sungai Perak",
       "Sub River Basin Sub River Basin": "Sg. Perak",
       "Last Updated Last Updated": "03/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 13.17,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 13.19,
       "state_code": "PRK"
     },
     {
@@ -36,7 +36,7 @@
       "Main Basin Main Basin": "Batang Rajang",
       "Sub River Basin Sub River Basin": "Sg. Sarikei",
       "Last Updated Last Updated": "03/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 7.16,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 7.08,
       "state_code": "SRK"
     },
     {
@@ -75,7 +75,7 @@
         "Main Basin Main Basin": "Sungai Perak",
         "Sub River Basin Sub River Basin": "Sg. Perak",
         "Last Updated Last Updated": "03/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 13.17,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 13.19,
         "state_code": "PRK"
       }
     ],
@@ -106,7 +106,7 @@
         "Main Basin Main Basin": "Batang Rajang",
         "Sub River Basin Sub River Basin": "Sg. Sarikei",
         "Last Updated Last Updated": "03/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 7.16,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 7.08,
         "state_code": "SRK"
       },
       {
