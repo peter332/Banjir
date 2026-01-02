@@ -1,7 +1,7 @@
 {
-  "generated_at": "03/01/2026 05:28",
+  "generated_at": "03/01/2026 05:39",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 7,
+  "rows": 6,
   "all": [
     {
       "Station Name Station Name": "Sg. Perak di Teluk Sena",
@@ -11,15 +11,6 @@
       "Last Updated Last Updated": "03/01/2026 05:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 13.2,
       "state_code": "PRK"
-    },
-    {
-      "Station Name Station Name": "Sg. Muar di Jeti Kg. Tekam",
-      "District District": "Segamat",
-      "Main Basin Main Basin": "Sungai Muar",
-      "Sub River Basin Sub River Basin": "Sg. Muar",
-      "Last Updated Last Updated": "03/01/2026 04:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.0,
-      "state_code": "JHR"
     },
     {
       "Station Name Station Name": "Nanga Lemai B",
@@ -77,17 +68,6 @@
         "Last Updated Last Updated": "03/01/2026 05:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 13.2,
         "state_code": "PRK"
-      }
-    ],
-    "JHR": [
-      {
-        "Station Name Station Name": "Sg. Muar di Jeti Kg. Tekam",
-        "District District": "Segamat",
-        "Main Basin Main Basin": "Sungai Muar",
-        "Sub River Basin Sub River Basin": "Sg. Muar",
-        "Last Updated Last Updated": "03/01/2026 04:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.0,
-        "state_code": "JHR"
       }
     ],
     "SRK": [
