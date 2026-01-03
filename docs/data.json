@@ -1,5 +1,5 @@
 {
-  "generated_at": "03/01/2026 13:16",
+  "generated_at": "03/01/2026 13:44",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 3,
   "all": [
@@ -9,7 +9,7 @@
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
       "Last Updated Last Updated": "03/01/2026 13:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.34,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.33,
       "state_code": "SRK"
     },
     {
@@ -18,7 +18,7 @@
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
       "Last Updated Last Updated": "03/01/2026 13:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.41,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.28,
       "state_code": "SRK"
     },
     {
@@ -39,7 +39,7 @@
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
         "Last Updated Last Updated": "03/01/2026 13:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.34,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.33,
         "state_code": "SRK"
       },
       {
@@ -48,7 +48,7 @@
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
         "Last Updated Last Updated": "03/01/2026 13:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.41,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.28,
         "state_code": "SRK"
       },
       {
