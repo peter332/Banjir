@@ -1,5 +1,5 @@
 {
-  "generated_at": "04/01/2026 01:49",
+  "generated_at": "04/01/2026 02:20",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 7,
   "all": [
@@ -8,7 +8,7 @@
       "District District": "Kota Tinggi",
       "Main Basin Main Basin": "Sungai Punggai",
       "Sub River Basin Sub River Basin": "Sg. Punggai",
-      "Last Updated Last Updated": "04/01/2026 00:45",
+      "Last Updated Last Updated": "04/01/2026 01:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 1.52,
       "state_code": "JHR"
     },
@@ -17,8 +17,8 @@
       "District District": "Mersing",
       "Main Basin Main Basin": "Sungai Endau",
       "Sub River Basin Sub River Basin": "Sg. Endau",
-      "Last Updated Last Updated": "04/01/2026 00:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.45,
+      "Last Updated Last Updated": "04/01/2026 01:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.44,
       "state_code": "JHR"
     },
     {
@@ -74,7 +74,7 @@
         "District District": "Kota Tinggi",
         "Main Basin Main Basin": "Sungai Punggai",
         "Sub River Basin Sub River Basin": "Sg. Punggai",
-        "Last Updated Last Updated": "04/01/2026 00:45",
+        "Last Updated Last Updated": "04/01/2026 01:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 1.52,
         "state_code": "JHR"
       },
@@ -83,8 +83,8 @@
         "District District": "Mersing",
         "Main Basin Main Basin": "Sungai Endau",
         "Sub River Basin Sub River Basin": "Sg. Endau",
-        "Last Updated Last Updated": "04/01/2026 00:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.45,
+        "Last Updated Last Updated": "04/01/2026 01:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.44,
         "state_code": "JHR"
       }
     ],
