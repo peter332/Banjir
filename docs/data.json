@@ -1,15 +1,15 @@
 {
-  "generated_at": "03/01/2026 07:49",
+  "generated_at": "03/01/2026 09:06",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 5,
+  "rows": 4,
   "all": [
     {
       "Station Name Station Name": "Sg. Perak di Teluk Sena",
       "District District": "Perak Tengah",
       "Main Basin Main Basin": "Sungai Perak",
       "Sub River Basin Sub River Basin": "Sg. Perak",
-      "Last Updated Last Updated": "03/01/2026 07:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 13.17,
+      "Last Updated Last Updated": "03/01/2026 08:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 13.18,
       "state_code": "PRK"
     },
     {
@@ -17,8 +17,8 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "03/01/2026 07:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.34,
+      "Last Updated Last Updated": "03/01/2026 08:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.36,
       "state_code": "SRK"
     },
     {
@@ -26,7 +26,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "03/01/2026 07:30",
+      "Last Updated Last Updated": "03/01/2026 08:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 8.3,
       "state_code": "SRK"
     },
@@ -35,17 +35,8 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "03/01/2026 07:30",
+      "Last Updated Last Updated": "03/01/2026 08:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.7,
-      "state_code": "SRK"
-    },
-    {
-      "Station Name Station Name": "Sebatan",
-      "District District": "Betong",
-      "Main Basin Main Basin": "Batang Krian",
-      "Sub River Basin Sub River Basin": "Sg. Sebemban",
-      "Last Updated Last Updated": "03/01/2026 07:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.24,
       "state_code": "SRK"
     }
   ],
@@ -56,8 +47,8 @@
         "District District": "Perak Tengah",
         "Main Basin Main Basin": "Sungai Perak",
         "Sub River Basin Sub River Basin": "Sg. Perak",
-        "Last Updated Last Updated": "03/01/2026 07:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 13.17,
+        "Last Updated Last Updated": "03/01/2026 08:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 13.18,
         "state_code": "PRK"
       }
     ],
@@ -67,8 +58,8 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "03/01/2026 07:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.34,
+        "Last Updated Last Updated": "03/01/2026 08:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.36,
         "state_code": "SRK"
       },
       {
@@ -76,7 +67,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "03/01/2026 07:30",
+        "Last Updated Last Updated": "03/01/2026 08:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 8.3,
         "state_code": "SRK"
       },
@@ -85,17 +76,8 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "03/01/2026 07:30",
+        "Last Updated Last Updated": "03/01/2026 08:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.7,
-        "state_code": "SRK"
-      },
-      {
-        "Station Name Station Name": "Sebatan",
-        "District District": "Betong",
-        "Main Basin Main Basin": "Batang Krian",
-        "Sub River Basin Sub River Basin": "Sg. Sebemban",
-        "Last Updated Last Updated": "03/01/2026 07:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.24,
         "state_code": "SRK"
       }
     ]
