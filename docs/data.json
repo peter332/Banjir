@@ -1,5 +1,5 @@
 {
-  "generated_at": "03/01/2026 22:13",
+  "generated_at": "03/01/2026 22:34",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 6,
   "all": [
@@ -8,7 +8,7 @@
       "District District": "Kuala Terengganu",
       "Main Basin Main Basin": "Sungai Terengganu",
       "Sub River Basin Sub River Basin": "Sg. Terengganu",
-      "Last Updated Last Updated": "03/01/2026 21:45",
+      "Last Updated Last Updated": "03/01/2026 22:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 1.86,
       "state_code": "TRG"
     },
@@ -65,7 +65,7 @@
         "District District": "Kuala Terengganu",
         "Main Basin Main Basin": "Sungai Terengganu",
         "Sub River Basin Sub River Basin": "Sg. Terengganu",
-        "Last Updated Last Updated": "03/01/2026 21:45",
+        "Last Updated Last Updated": "03/01/2026 22:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 1.86,
         "state_code": "TRG"
       }
