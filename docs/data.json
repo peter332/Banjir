@@ -1,5 +1,5 @@
 {
-  "generated_at": "05/01/2026 04:16",
+  "generated_at": "05/01/2026 04:42",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 4,
   "all": [
@@ -9,7 +9,7 @@
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
       "Last Updated Last Updated": "05/01/2026 03:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.26,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.28,
       "state_code": "SRK"
     },
     {
@@ -18,7 +18,7 @@
       "Main Basin Main Basin": "Sungai Sibuti",
       "Sub River Basin Sub River Basin": "Sg. Sibuti",
       "Last Updated Last Updated": "05/01/2026 03:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.29,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.31,
       "state_code": "SRK"
     },
     {
@@ -48,7 +48,7 @@
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
         "Last Updated Last Updated": "05/01/2026 03:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.26,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.28,
         "state_code": "SRK"
       },
       {
@@ -57,7 +57,7 @@
         "Main Basin Main Basin": "Sungai Sibuti",
         "Sub River Basin Sub River Basin": "Sg. Sibuti",
         "Last Updated Last Updated": "05/01/2026 03:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.29,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.31,
         "state_code": "SRK"
       },
       {
