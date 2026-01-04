@@ -1,15 +1,24 @@
 {
-  "generated_at": "05/01/2026 05:31",
+  "generated_at": "05/01/2026 05:48",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 4,
+  "rows": 5,
   "all": [
+    {
+      "Station Name Station Name": "Sg. Siput di Kg. Sg. Siput (F2)",
+      "District District": "Alor Gajah",
+      "Main Basin Main Basin": "Sungai Linggi (Melaka)",
+      "Sub River Basin Sub River Basin": "Sg. Siput",
+      "Last Updated Last Updated": "05/01/2026 04:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.01,
+      "state_code": "MLK"
+    },
     {
       "Station Name Station Name": "Nanga Lemai B",
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "05/01/2026 05:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.29,
+      "Last Updated Last Updated": "05/01/2026 05:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.26,
       "state_code": "SRK"
     },
     {
@@ -17,8 +26,8 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Sungai Sibuti",
       "Sub River Basin Sub River Basin": "Sg. Sibuti",
-      "Last Updated Last Updated": "05/01/2026 05:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.31,
+      "Last Updated Last Updated": "05/01/2026 05:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.29,
       "state_code": "SRK"
     },
     {
@@ -26,7 +35,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "05/01/2026 05:00",
+      "Last Updated Last Updated": "05/01/2026 05:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 8.1,
       "state_code": "SRK"
     },
@@ -41,14 +50,25 @@
     }
   ],
   "states": {
+    "MLK": [
+      {
+        "Station Name Station Name": "Sg. Siput di Kg. Sg. Siput (F2)",
+        "District District": "Alor Gajah",
+        "Main Basin Main Basin": "Sungai Linggi (Melaka)",
+        "Sub River Basin Sub River Basin": "Sg. Siput",
+        "Last Updated Last Updated": "05/01/2026 04:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.01,
+        "state_code": "MLK"
+      }
+    ],
     "SRK": [
       {
         "Station Name Station Name": "Nanga Lemai B",
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "05/01/2026 05:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.29,
+        "Last Updated Last Updated": "05/01/2026 05:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.26,
         "state_code": "SRK"
       },
       {
@@ -56,8 +76,8 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Sungai Sibuti",
         "Sub River Basin Sub River Basin": "Sg. Sibuti",
-        "Last Updated Last Updated": "05/01/2026 05:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.31,
+        "Last Updated Last Updated": "05/01/2026 05:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.29,
         "state_code": "SRK"
       },
       {
@@ -65,7 +85,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "05/01/2026 05:00",
+        "Last Updated Last Updated": "05/01/2026 05:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 8.1,
         "state_code": "SRK"
       },
