@@ -1,5 +1,5 @@
 {
-  "generated_at": "05/01/2026 01:32",
+  "generated_at": "05/01/2026 01:49",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 5,
   "all": [
@@ -8,7 +8,7 @@
       "District District": "Mersing",
       "Main Basin Main Basin": "Sungai Endau",
       "Sub River Basin Sub River Basin": "Sg. Endau",
-      "Last Updated Last Updated": "05/01/2026 01:00",
+      "Last Updated Last Updated": "05/01/2026 01:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 2.33,
       "state_code": "JHR"
     },
@@ -17,8 +17,8 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "05/01/2026 01:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.29,
+      "Last Updated Last Updated": "05/01/2026 01:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.28,
       "state_code": "SRK"
     },
     {
@@ -26,7 +26,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Sungai Sibuti",
       "Sub River Basin Sub River Basin": "Sg. Sibuti",
-      "Last Updated Last Updated": "05/01/2026 01:15",
+      "Last Updated Last Updated": "05/01/2026 01:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 2.29,
       "state_code": "SRK"
     },
@@ -35,8 +35,8 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "05/01/2026 01:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.14,
+      "Last Updated Last Updated": "05/01/2026 01:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.13,
       "state_code": "SRK"
     },
     {
@@ -44,7 +44,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "05/01/2026 01:15",
+      "Last Updated Last Updated": "05/01/2026 01:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.79,
       "state_code": "SRK"
     }
@@ -56,7 +56,7 @@
         "District District": "Mersing",
         "Main Basin Main Basin": "Sungai Endau",
         "Sub River Basin Sub River Basin": "Sg. Endau",
-        "Last Updated Last Updated": "05/01/2026 01:00",
+        "Last Updated Last Updated": "05/01/2026 01:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 2.33,
         "state_code": "JHR"
       }
@@ -67,8 +67,8 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "05/01/2026 01:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.29,
+        "Last Updated Last Updated": "05/01/2026 01:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.28,
         "state_code": "SRK"
       },
       {
@@ -76,7 +76,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Sungai Sibuti",
         "Sub River Basin Sub River Basin": "Sg. Sibuti",
-        "Last Updated Last Updated": "05/01/2026 01:15",
+        "Last Updated Last Updated": "05/01/2026 01:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 2.29,
         "state_code": "SRK"
       },
@@ -85,8 +85,8 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "05/01/2026 01:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.14,
+        "Last Updated Last Updated": "05/01/2026 01:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.13,
         "state_code": "SRK"
       },
       {
@@ -94,7 +94,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "05/01/2026 01:15",
+        "Last Updated Last Updated": "05/01/2026 01:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.79,
         "state_code": "SRK"
       }
