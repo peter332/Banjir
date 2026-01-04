@@ -1,5 +1,5 @@
 {
-  "generated_at": "04/01/2026 19:12",
+  "generated_at": "04/01/2026 19:28",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 5,
   "all": [
@@ -8,7 +8,7 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "04/01/2026 19:00",
+      "Last Updated Last Updated": "04/01/2026 19:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 4.32,
       "state_code": "SRK"
     },
@@ -17,7 +17,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Sungai Sibuti",
       "Sub River Basin Sub River Basin": "Sg. Sibuti",
-      "Last Updated Last Updated": "04/01/2026 19:00",
+      "Last Updated Last Updated": "04/01/2026 19:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 2.25,
       "state_code": "SRK"
     },
@@ -26,7 +26,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "04/01/2026 19:00",
+      "Last Updated Last Updated": "04/01/2026 19:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 8.17,
       "state_code": "SRK"
     },
@@ -35,7 +35,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
-      "Last Updated Last Updated": "04/01/2026 19:00",
+      "Last Updated Last Updated": "04/01/2026 19:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.78,
       "state_code": "SRK"
     },
@@ -44,8 +44,8 @@
       "District District": "Samarahan",
       "Main Basin Main Basin": "Batang Samarahan",
       "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "04/01/2026 18:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.32,
+      "Last Updated Last Updated": "04/01/2026 19:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.44,
       "state_code": "SRK"
     }
   ],
@@ -56,7 +56,7 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "04/01/2026 19:00",
+        "Last Updated Last Updated": "04/01/2026 19:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 4.32,
         "state_code": "SRK"
       },
@@ -65,7 +65,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Sungai Sibuti",
         "Sub River Basin Sub River Basin": "Sg. Sibuti",
-        "Last Updated Last Updated": "04/01/2026 19:00",
+        "Last Updated Last Updated": "04/01/2026 19:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 2.25,
         "state_code": "SRK"
       },
@@ -74,7 +74,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "04/01/2026 19:00",
+        "Last Updated Last Updated": "04/01/2026 19:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 8.17,
         "state_code": "SRK"
       },
@@ -83,7 +83,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
-        "Last Updated Last Updated": "04/01/2026 19:00",
+        "Last Updated Last Updated": "04/01/2026 19:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.78,
         "state_code": "SRK"
       },
@@ -92,8 +92,8 @@
         "District District": "Samarahan",
         "Main Basin Main Basin": "Batang Samarahan",
         "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "04/01/2026 18:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.32,
+        "Last Updated Last Updated": "04/01/2026 19:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.44,
         "state_code": "SRK"
       }
     ]
