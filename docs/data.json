@@ -1,7 +1,7 @@
 {
-  "generated_at": "04/01/2026 21:40",
+  "generated_at": "04/01/2026 21:51",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 7,
+  "rows": 6,
   "all": [
     {
       "Station Name Station Name": "Sungai Salim B",
@@ -55,15 +55,6 @@
       "Sub River Basin Sub River Basin": "Btg. Baram",
       "Last Updated Last Updated": "04/01/2026 21:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 3.79,
-      "state_code": "SRK"
-    },
-    {
-      "Station Name Station Name": "Kampung Entingan",
-      "District District": "Samarahan",
-      "Main Basin Main Basin": "Batang Samarahan",
-      "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "04/01/2026 20:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.21,
       "state_code": "SRK"
     }
   ],
@@ -121,15 +112,6 @@
         "Sub River Basin Sub River Basin": "Btg. Baram",
         "Last Updated Last Updated": "04/01/2026 21:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 3.79,
-        "state_code": "SRK"
-      },
-      {
-        "Station Name Station Name": "Kampung Entingan",
-        "District District": "Samarahan",
-        "Main Basin Main Basin": "Batang Samarahan",
-        "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "04/01/2026 20:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.21,
         "state_code": "SRK"
       }
     ]
