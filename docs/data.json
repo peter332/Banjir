@@ -1,7 +1,7 @@
 {
-  "generated_at": "06/01/2026 20:31",
+  "generated_at": "06/01/2026 21:24",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 5,
+  "rows": 6,
   "all": [
     {
       "Station Name Station Name": "Nanga Lemai B",
@@ -44,8 +44,17 @@
       "District District": "Samarahan",
       "Main Basin Main Basin": "Batang Samarahan",
       "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "06/01/2026 19:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.35,
+      "Last Updated Last Updated": "06/01/2026 20:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.53,
+      "state_code": "SRK"
+    },
+    {
+      "Station Name Station Name": "Kampung Mang",
+      "District District": "Samarahan",
+      "Main Basin Main Basin": "Batang Samarahan",
+      "Sub River Basin Sub River Basin": "Btg. Samarahan",
+      "Last Updated Last Updated": "06/01/2026 20:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.01,
       "state_code": "SRK"
     }
   ],
@@ -92,8 +101,17 @@
         "District District": "Samarahan",
         "Main Basin Main Basin": "Batang Samarahan",
         "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "06/01/2026 19:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.35,
+        "Last Updated Last Updated": "06/01/2026 20:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.53,
+        "state_code": "SRK"
+      },
+      {
+        "Station Name Station Name": "Kampung Mang",
+        "District District": "Samarahan",
+        "Main Basin Main Basin": "Batang Samarahan",
+        "Sub River Basin Sub River Basin": "Btg. Samarahan",
+        "Last Updated Last Updated": "06/01/2026 20:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.01,
         "state_code": "SRK"
       }
     ]
