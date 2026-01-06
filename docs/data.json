@@ -1,7 +1,7 @@
 {
-  "generated_at": "07/01/2026 03:41",
+  "generated_at": "07/01/2026 03:51",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 5,
+  "rows": 4,
   "all": [
     {
       "Station Name Station Name": "Sg. Terengganu di Drawbridge (F1)",
@@ -13,21 +13,12 @@
       "state_code": "TRG"
     },
     {
-      "Station Name Station Name": "Sungai Salim B",
-      "District District": "Sibu",
-      "Main Basin Main Basin": "Batang Rajang",
-      "Sub River Basin Sub River Basin": "Sg. Salim",
-      "Last Updated Last Updated": "07/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.12,
-      "state_code": "SRK"
-    },
-    {
       "Station Name Station Name": "Nanga Lemai B",
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
       "Last Updated Last Updated": "07/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.01,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.0,
       "state_code": "SRK"
     },
     {
@@ -36,7 +27,7 @@
       "Main Basin Main Basin": "Batang Kemena",
       "Sub River Basin Sub River Basin": "Sg. Binyo",
       "Last Updated Last Updated": "07/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 6.87,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 6.95,
       "state_code": "SRK"
     },
     {
@@ -45,7 +36,7 @@
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Btg. Baram",
       "Last Updated Last Updated": "07/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.64,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.66,
       "state_code": "SRK"
     }
   ],
@@ -63,21 +54,12 @@
     ],
     "SRK": [
       {
-        "Station Name Station Name": "Sungai Salim B",
-        "District District": "Sibu",
-        "Main Basin Main Basin": "Batang Rajang",
-        "Sub River Basin Sub River Basin": "Sg. Salim",
-        "Last Updated Last Updated": "07/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.12,
-        "state_code": "SRK"
-      },
-      {
         "Station Name Station Name": "Nanga Lemai B",
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
         "Last Updated Last Updated": "07/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.01,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.0,
         "state_code": "SRK"
       },
       {
@@ -86,7 +68,7 @@
         "Main Basin Main Basin": "Batang Kemena",
         "Sub River Basin Sub River Basin": "Sg. Binyo",
         "Last Updated Last Updated": "07/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 6.87,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 6.95,
         "state_code": "SRK"
       },
       {
@@ -95,7 +77,7 @@
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Btg. Baram",
         "Last Updated Last Updated": "07/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.64,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.66,
         "state_code": "SRK"
       }
     ]
