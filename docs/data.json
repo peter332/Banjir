@@ -1,45 +1,27 @@
 {
-  "generated_at": "07/01/2026 22:19",
+  "generated_at": "07/01/2026 22:48",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 1,
   "all": [
-    {
-      "Station Name Station Name": "Sri Aman Telemetry",
-      "District District": "Sri Aman",
-      "Main Basin Main Basin": "Batang Lupar",
-      "Sub River Basin Sub River Basin": "Btg. Lupar",
-      "Last Updated Last Updated": "07/01/2026 22:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 5.53,
-      "state_code": "SRK"
-    },
     {
       "Station Name Station Name": "Kampung Entingan",
       "District District": "Samarahan",
       "Main Basin Main Basin": "Batang Samarahan",
       "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "07/01/2026 21:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.49,
+      "Last Updated Last Updated": "07/01/2026 22:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.36,
       "state_code": "SRK"
     }
   ],
   "states": {
     "SRK": [
       {
-        "Station Name Station Name": "Sri Aman Telemetry",
-        "District District": "Sri Aman",
-        "Main Basin Main Basin": "Batang Lupar",
-        "Sub River Basin Sub River Basin": "Btg. Lupar",
-        "Last Updated Last Updated": "07/01/2026 22:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 5.53,
-        "state_code": "SRK"
-      },
-      {
         "Station Name Station Name": "Kampung Entingan",
         "District District": "Samarahan",
         "Main Basin Main Basin": "Batang Samarahan",
         "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "07/01/2026 21:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.49,
+        "Last Updated Last Updated": "07/01/2026 22:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.36,
         "state_code": "SRK"
       }
     ]
