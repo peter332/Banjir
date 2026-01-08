@@ -1,14 +1,23 @@
 {
-  "generated_at": "08/01/2026 19:51",
+  "generated_at": "08/01/2026 20:32",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 1,
+  "rows": 2,
   "all": [
+    {
+      "Station Name Station Name": "Kampung Entingan",
+      "District District": "Samarahan",
+      "Main Basin Main Basin": "Batang Samarahan",
+      "Sub River Basin Sub River Basin": "Sg. Entingan",
+      "Last Updated Last Updated": "08/01/2026 20:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.28,
+      "state_code": "SRK"
+    },
     {
       "Station Name Station Name": "Lubok Piasau II",
       "District District": "Limbang",
       "Main Basin Main Basin": "Sungai Limbang",
       "Sub River Basin Sub River Basin": "Sg. Limbang",
-      "Last Updated Last Updated": "08/01/2026 19:15",
+      "Last Updated Last Updated": "08/01/2026 20:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 2.4,
       "state_code": "SRK"
     }
@@ -16,11 +25,20 @@
   "states": {
     "SRK": [
       {
+        "Station Name Station Name": "Kampung Entingan",
+        "District District": "Samarahan",
+        "Main Basin Main Basin": "Batang Samarahan",
+        "Sub River Basin Sub River Basin": "Sg. Entingan",
+        "Last Updated Last Updated": "08/01/2026 20:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.28,
+        "state_code": "SRK"
+      },
+      {
         "Station Name Station Name": "Lubok Piasau II",
         "District District": "Limbang",
         "Main Basin Main Basin": "Sungai Limbang",
         "Sub River Basin Sub River Basin": "Sg. Limbang",
-        "Last Updated Last Updated": "08/01/2026 19:15",
+        "Last Updated Last Updated": "08/01/2026 20:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 2.4,
         "state_code": "SRK"
       }
