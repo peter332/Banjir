@@ -1,5 +1,5 @@
 {
-  "generated_at": "09/01/2026 07:30",
+  "generated_at": "09/01/2026 07:43",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 4,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Kuching",
       "Main Basin Main Basin": "Sungai Sarawak",
       "Sub River Basin Sub River Basin": "Sg. Semadang",
-      "Last Updated Last Updated": "09/01/2026 07:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 39.86,
+      "Last Updated Last Updated": "09/01/2026 07:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 39.84,
       "state_code": "SRK"
     },
     {
@@ -17,8 +17,8 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "09/01/2026 07:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.28,
+      "Last Updated Last Updated": "09/01/2026 07:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.29,
       "state_code": "SRK"
     },
     {
@@ -47,8 +47,8 @@
         "District District": "Kuching",
         "Main Basin Main Basin": "Sungai Sarawak",
         "Sub River Basin Sub River Basin": "Sg. Semadang",
-        "Last Updated Last Updated": "09/01/2026 07:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 39.86,
+        "Last Updated Last Updated": "09/01/2026 07:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 39.84,
         "state_code": "SRK"
       },
       {
@@ -56,8 +56,8 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "09/01/2026 07:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.28,
+        "Last Updated Last Updated": "09/01/2026 07:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.29,
         "state_code": "SRK"
       },
       {
