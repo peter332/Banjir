@@ -1,5 +1,5 @@
 {
-  "generated_at": "08/01/2026 20:32",
+  "generated_at": "08/01/2026 21:27",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 2,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Samarahan",
       "Main Basin Main Basin": "Batang Samarahan",
       "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "08/01/2026 20:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.28,
+      "Last Updated Last Updated": "08/01/2026 20:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.5,
       "state_code": "SRK"
     },
     {
@@ -17,8 +17,8 @@
       "District District": "Limbang",
       "Main Basin Main Basin": "Sungai Limbang",
       "Sub River Basin Sub River Basin": "Sg. Limbang",
-      "Last Updated Last Updated": "08/01/2026 20:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.4,
+      "Last Updated Last Updated": "08/01/2026 20:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.42,
       "state_code": "SRK"
     }
   ],
@@ -29,8 +29,8 @@
         "District District": "Samarahan",
         "Main Basin Main Basin": "Batang Samarahan",
         "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "08/01/2026 20:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.28,
+        "Last Updated Last Updated": "08/01/2026 20:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.5,
         "state_code": "SRK"
       },
       {
@@ -38,8 +38,8 @@
         "District District": "Limbang",
         "Main Basin Main Basin": "Sungai Limbang",
         "Sub River Basin Sub River Basin": "Sg. Limbang",
-        "Last Updated Last Updated": "08/01/2026 20:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.4,
+        "Last Updated Last Updated": "08/01/2026 20:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.42,
         "state_code": "SRK"
       }
     ]
