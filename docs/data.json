@@ -1,15 +1,15 @@
 {
-  "generated_at": "08/01/2026 23:48",
+  "generated_at": "09/01/2026 00:21",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 4,
+  "rows": 3,
   "all": [
     {
       "Station Name Station Name": "Sungai Salim B",
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Rajang",
       "Sub River Basin Sub River Basin": "Sg. Salim",
-      "Last Updated Last Updated": "08/01/2026 23:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.13,
+      "Last Updated Last Updated": "08/01/2026 23:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.16,
       "state_code": "SRK"
     },
     {
@@ -17,17 +17,8 @@
       "District District": "Samarahan",
       "Main Basin Main Basin": "Batang Samarahan",
       "Sub River Basin Sub River Basin": "Sg. Entingan",
-      "Last Updated Last Updated": "08/01/2026 23:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.7,
-      "state_code": "SRK"
-    },
-    {
-      "Station Name Station Name": "Kampung Mang",
-      "District District": "Samarahan",
-      "Main Basin Main Basin": "Batang Samarahan",
-      "Sub River Basin Sub River Basin": "Btg. Samarahan",
-      "Last Updated Last Updated": "08/01/2026 22:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.11,
+      "Last Updated Last Updated": "08/01/2026 23:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.55,
       "state_code": "SRK"
     },
     {
@@ -35,7 +26,7 @@
       "District District": "Limbang",
       "Main Basin Main Basin": "Sungai Limbang",
       "Sub River Basin Sub River Basin": "Sg. Limbang",
-      "Last Updated Last Updated": "08/01/2026 23:00",
+      "Last Updated Last Updated": "08/01/2026 23:45",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 2.43,
       "state_code": "SRK"
     }
@@ -47,8 +38,8 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Rajang",
         "Sub River Basin Sub River Basin": "Sg. Salim",
-        "Last Updated Last Updated": "08/01/2026 23:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.13,
+        "Last Updated Last Updated": "08/01/2026 23:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.16,
         "state_code": "SRK"
       },
       {
@@ -56,17 +47,8 @@
         "District District": "Samarahan",
         "Main Basin Main Basin": "Batang Samarahan",
         "Sub River Basin Sub River Basin": "Sg. Entingan",
-        "Last Updated Last Updated": "08/01/2026 23:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.7,
-        "state_code": "SRK"
-      },
-      {
-        "Station Name Station Name": "Kampung Mang",
-        "District District": "Samarahan",
-        "Main Basin Main Basin": "Batang Samarahan",
-        "Sub River Basin Sub River Basin": "Btg. Samarahan",
-        "Last Updated Last Updated": "08/01/2026 22:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.11,
+        "Last Updated Last Updated": "08/01/2026 23:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.55,
         "state_code": "SRK"
       },
       {
@@ -74,7 +56,7 @@
         "District District": "Limbang",
         "Main Basin Main Basin": "Sungai Limbang",
         "Sub River Basin Sub River Basin": "Sg. Limbang",
-        "Last Updated Last Updated": "08/01/2026 23:00",
+        "Last Updated Last Updated": "08/01/2026 23:45",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 2.43,
         "state_code": "SRK"
       }
