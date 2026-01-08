@@ -1,47 +1,27 @@
 {
-  "generated_at": "08/01/2026 17:48",
+  "generated_at": "08/01/2026 18:18",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 2,
+  "rows": 1,
   "all": [
-    {
-      "Station Name Station Name": "Muara Sg. Jawi (F2)",
-      "District District": "Seberang Perai Selatan",
-      "Main Basin Main Basin": "Sungai Jawi",
-      "Sub River Basin Sub River Basin": "Sg. Jawi",
-      "Last Updated Last Updated": "08/01/2026 17:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 1.26,
-      "state_code": "PNG"
-    },
     {
       "Station Name Station Name": "Lubok Piasau II",
       "District District": "Limbang",
       "Main Basin Main Basin": "Sungai Limbang",
       "Sub River Basin Sub River Basin": "Sg. Limbang",
-      "Last Updated Last Updated": "08/01/2026 17:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.31,
+      "Last Updated Last Updated": "08/01/2026 17:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.33,
       "state_code": "SRK"
     }
   ],
   "states": {
-    "PNG": [
-      {
-        "Station Name Station Name": "Muara Sg. Jawi (F2)",
-        "District District": "Seberang Perai Selatan",
-        "Main Basin Main Basin": "Sungai Jawi",
-        "Sub River Basin Sub River Basin": "Sg. Jawi",
-        "Last Updated Last Updated": "08/01/2026 17:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 1.26,
-        "state_code": "PNG"
-      }
-    ],
     "SRK": [
       {
         "Station Name Station Name": "Lubok Piasau II",
         "District District": "Limbang",
         "Main Basin Main Basin": "Sungai Limbang",
         "Sub River Basin Sub River Basin": "Sg. Limbang",
-        "Last Updated Last Updated": "08/01/2026 17:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.31,
+        "Last Updated Last Updated": "08/01/2026 17:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.33,
         "state_code": "SRK"
       }
     ]
