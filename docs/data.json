@@ -1,5 +1,5 @@
 {
-  "generated_at": "11/01/2026 02:49",
+  "generated_at": "11/01/2026 03:11",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 10,
   "all": [
@@ -9,7 +9,7 @@
       "Main Basin Main Basin": "Batang Sadong",
       "Sub River Basin Sub River Basin": "Sg. Batang Kayan",
       "Last Updated Last Updated": "11/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 9.82,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 9.74,
       "state_code": "SRK"
     },
     {
@@ -18,7 +18,7 @@
       "Main Basin Main Basin": "Batang Oya",
       "Sub River Basin Sub River Basin": "Btg. Oya",
       "Last Updated Last Updated": "11/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 14.47,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 14.5,
       "state_code": "SRK"
     },
     {
@@ -63,7 +63,7 @@
       "Main Basin Main Basin": "Batang Kemena",
       "Sub River Basin Sub River Basin": "Sg. Sibiu",
       "Last Updated Last Updated": "11/01/2026 01:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 6.78,
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 6.79,
       "state_code": "SRK"
     },
     {
@@ -102,7 +102,7 @@
         "Main Basin Main Basin": "Batang Sadong",
         "Sub River Basin Sub River Basin": "Sg. Batang Kayan",
         "Last Updated Last Updated": "11/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 9.82,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 9.74,
         "state_code": "SRK"
       },
       {
@@ -111,7 +111,7 @@
         "Main Basin Main Basin": "Batang Oya",
         "Sub River Basin Sub River Basin": "Btg. Oya",
         "Last Updated Last Updated": "11/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 14.47,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 14.5,
         "state_code": "SRK"
       },
       {
@@ -156,7 +156,7 @@
         "Main Basin Main Basin": "Batang Kemena",
         "Sub River Basin Sub River Basin": "Sg. Sibiu",
         "Last Updated Last Updated": "11/01/2026 01:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 6.78,
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 6.79,
         "state_code": "SRK"
       },
       {
