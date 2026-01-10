@@ -1,5 +1,5 @@
 {
-  "generated_at": "10/01/2026 21:39",
+  "generated_at": "10/01/2026 21:51",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 8,
   "all": [
@@ -71,8 +71,8 @@
       "District District": "Limbang",
       "Main Basin Main Basin": "Sungai Limbang",
       "Sub River Basin Sub River Basin": "Sg. Limbang",
-      "Last Updated Last Updated": "10/01/2026 21:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.4,
+      "Last Updated Last Updated": "10/01/2026 21:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.35,
       "state_code": "SRK"
     }
   ],
@@ -146,8 +146,8 @@
         "District District": "Limbang",
         "Main Basin Main Basin": "Sungai Limbang",
         "Sub River Basin Sub River Basin": "Sg. Limbang",
-        "Last Updated Last Updated": "10/01/2026 21:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.4,
+        "Last Updated Last Updated": "10/01/2026 21:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.35,
         "state_code": "SRK"
       }
     ]
