@@ -1,8 +1,17 @@
 {
-  "generated_at": "12/01/2026 05:13",
+  "generated_at": "12/01/2026 05:31",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 9,
+  "rows": 10,
   "all": [
+    {
+      "Station Name Station Name": "Sg. Siput di Kg. Sg. Siput (F2)",
+      "District District": "Alor Gajah",
+      "Main Basin Main Basin": "Sungai Linggi (Melaka)",
+      "Sub River Basin Sub River Basin": "Sg. Siput",
+      "Last Updated Last Updated": "12/01/2026 03:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.04,
+      "state_code": "MLK"
+    },
     {
       "Station Name Station Name": "Serian",
       "District District": "Serian",
@@ -80,12 +89,23 @@
       "District District": "Betong",
       "Main Basin Main Basin": "Batang Krian",
       "Sub River Basin Sub River Basin": "Sg. Sebemban",
-      "Last Updated Last Updated": "12/01/2026 00:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.34,
+      "Last Updated Last Updated": "12/01/2026 03:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.26,
       "state_code": "SRK"
     }
   ],
   "states": {
+    "MLK": [
+      {
+        "Station Name Station Name": "Sg. Siput di Kg. Sg. Siput (F2)",
+        "District District": "Alor Gajah",
+        "Main Basin Main Basin": "Sungai Linggi (Melaka)",
+        "Sub River Basin Sub River Basin": "Sg. Siput",
+        "Last Updated Last Updated": "12/01/2026 03:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.04,
+        "state_code": "MLK"
+      }
+    ],
     "SRK": [
       {
         "Station Name Station Name": "Serian",
@@ -164,8 +184,8 @@
         "District District": "Betong",
         "Main Basin Main Basin": "Batang Krian",
         "Sub River Basin Sub River Basin": "Sg. Sebemban",
-        "Last Updated Last Updated": "12/01/2026 00:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.34,
+        "Last Updated Last Updated": "12/01/2026 03:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.26,
         "state_code": "SRK"
       }
     ]
