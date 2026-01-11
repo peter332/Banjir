@@ -1,7 +1,7 @@
 {
-  "generated_at": "11/01/2026 12:32",
+  "generated_at": "11/01/2026 13:05",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 10,
+  "rows": 11,
   "all": [
     {
       "Station Name Station Name": "Serian",
@@ -85,12 +85,21 @@
       "state_code": "SRK"
     },
     {
+      "Station Name Station Name": "Sebatan",
+      "District District": "Betong",
+      "Main Basin Main Basin": "Batang Krian",
+      "Sub River Basin Sub River Basin": "Sg. Sebemban",
+      "Last Updated Last Updated": "11/01/2026 12:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 10.22,
+      "state_code": "SRK"
+    },
+    {
       "Station Name Station Name": "Lubok Piasau II",
       "District District": "Limbang",
       "Main Basin Main Basin": "Sungai Limbang",
       "Sub River Basin Sub River Basin": "Sg. Limbang",
-      "Last Updated Last Updated": "11/01/2026 11:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.21,
+      "Last Updated Last Updated": "11/01/2026 12:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.2,
       "state_code": "SRK"
     }
   ],
@@ -178,12 +187,21 @@
         "state_code": "SRK"
       },
       {
+        "Station Name Station Name": "Sebatan",
+        "District District": "Betong",
+        "Main Basin Main Basin": "Batang Krian",
+        "Sub River Basin Sub River Basin": "Sg. Sebemban",
+        "Last Updated Last Updated": "11/01/2026 12:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 10.22,
+        "state_code": "SRK"
+      },
+      {
         "Station Name Station Name": "Lubok Piasau II",
         "District District": "Limbang",
         "Main Basin Main Basin": "Sungai Limbang",
         "Sub River Basin Sub River Basin": "Sg. Limbang",
-        "Last Updated Last Updated": "11/01/2026 11:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.21,
+        "Last Updated Last Updated": "11/01/2026 12:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.2,
         "state_code": "SRK"
       }
     ]
