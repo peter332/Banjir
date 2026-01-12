@@ -1,24 +1,15 @@
 {
-  "generated_at": "12/01/2026 20:33",
+  "generated_at": "12/01/2026 21:30",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 7,
+  "rows": 6,
   "all": [
-    {
-      "Station Name Station Name": "Sungai Salim B",
-      "District District": "Sibu",
-      "Main Basin Main Basin": "Batang Rajang",
-      "Sub River Basin Sub River Basin": "Sg. Salim",
-      "Last Updated Last Updated": "12/01/2026 20:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 3.27,
-      "state_code": "SRK"
-    },
     {
       "Station Name Station Name": "Stapang B",
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Oya",
       "Sub River Basin Sub River Basin": "Btg. Oya",
-      "Last Updated Last Updated": "12/01/2026 20:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 14.5,
+      "Last Updated Last Updated": "12/01/2026 21:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 14.46,
       "state_code": "SRK"
     },
     {
@@ -26,7 +17,7 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "12/01/2026 20:15",
+      "Last Updated Last Updated": "12/01/2026 21:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 5.52,
       "state_code": "SRK"
     },
@@ -35,8 +26,8 @@
       "District District": "Bintulu",
       "Main Basin Main Basin": "Batang Kemena",
       "Sub River Basin Sub River Basin": "Btg. Kemena",
-      "Last Updated Last Updated": "12/01/2026 20:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.15,
+      "Last Updated Last Updated": "12/01/2026 21:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.14,
       "state_code": "SRK"
     },
     {
@@ -44,7 +35,7 @@
       "District District": "Bintulu",
       "Main Basin Main Basin": "Batang Kemena",
       "Sub River Basin Sub River Basin": "Btg. Kemena",
-      "Last Updated Last Updated": "12/01/2026 20:15",
+      "Last Updated Last Updated": "12/01/2026 21:15",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 2.43,
       "state_code": "SRK"
     },
@@ -53,8 +44,8 @@
       "District District": "Bintulu",
       "Main Basin Main Basin": "Batang Kemena",
       "Sub River Basin Sub River Basin": "Sg. Sibiu",
-      "Last Updated Last Updated": "12/01/2026 20:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 6.51,
+      "Last Updated Last Updated": "12/01/2026 21:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 6.47,
       "state_code": "SRK"
     },
     {
@@ -62,29 +53,20 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "12/01/2026 20:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.23,
+      "Last Updated Last Updated": "12/01/2026 21:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.21,
       "state_code": "SRK"
     }
   ],
   "states": {
     "SRK": [
       {
-        "Station Name Station Name": "Sungai Salim B",
-        "District District": "Sibu",
-        "Main Basin Main Basin": "Batang Rajang",
-        "Sub River Basin Sub River Basin": "Sg. Salim",
-        "Last Updated Last Updated": "12/01/2026 20:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 3.27,
-        "state_code": "SRK"
-      },
-      {
         "Station Name Station Name": "Stapang B",
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Oya",
         "Sub River Basin Sub River Basin": "Btg. Oya",
-        "Last Updated Last Updated": "12/01/2026 20:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 14.5,
+        "Last Updated Last Updated": "12/01/2026 21:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 14.46,
         "state_code": "SRK"
       },
       {
@@ -92,7 +74,7 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "12/01/2026 20:15",
+        "Last Updated Last Updated": "12/01/2026 21:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 5.52,
         "state_code": "SRK"
       },
@@ -101,8 +83,8 @@
         "District District": "Bintulu",
         "Main Basin Main Basin": "Batang Kemena",
         "Sub River Basin Sub River Basin": "Btg. Kemena",
-        "Last Updated Last Updated": "12/01/2026 20:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.15,
+        "Last Updated Last Updated": "12/01/2026 21:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.14,
         "state_code": "SRK"
       },
       {
@@ -110,7 +92,7 @@
         "District District": "Bintulu",
         "Main Basin Main Basin": "Batang Kemena",
         "Sub River Basin Sub River Basin": "Btg. Kemena",
-        "Last Updated Last Updated": "12/01/2026 20:15",
+        "Last Updated Last Updated": "12/01/2026 21:15",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 2.43,
         "state_code": "SRK"
       },
@@ -119,8 +101,8 @@
         "District District": "Bintulu",
         "Main Basin Main Basin": "Batang Kemena",
         "Sub River Basin Sub River Basin": "Sg. Sibiu",
-        "Last Updated Last Updated": "12/01/2026 20:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 6.51,
+        "Last Updated Last Updated": "12/01/2026 21:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 6.47,
         "state_code": "SRK"
       },
       {
@@ -128,8 +110,8 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "12/01/2026 20:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.23,
+        "Last Updated Last Updated": "12/01/2026 21:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.21,
         "state_code": "SRK"
       }
     ]
