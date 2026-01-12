@@ -1,5 +1,5 @@
 {
-  "generated_at": "13/01/2026 07:28",
+  "generated_at": "13/01/2026 07:40",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 7,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Alor Gajah",
       "Main Basin Main Basin": "Sungai Linggi (Melaka)",
       "Sub River Basin Sub River Basin": "Sg. Siput",
-      "Last Updated Last Updated": "13/01/2026 06:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.1,
+      "Last Updated Last Updated": "13/01/2026 07:15",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.11,
       "state_code": "MLK"
     },
     {
@@ -74,8 +74,8 @@
         "District District": "Alor Gajah",
         "Main Basin Main Basin": "Sungai Linggi (Melaka)",
         "Sub River Basin Sub River Basin": "Sg. Siput",
-        "Last Updated Last Updated": "13/01/2026 06:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.1,
+        "Last Updated Last Updated": "13/01/2026 07:15",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.11,
         "state_code": "MLK"
       }
     ],
