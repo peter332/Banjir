@@ -1,5 +1,5 @@
 {
-  "generated_at": "14/01/2026 09:14",
+  "generated_at": "14/01/2026 11:15",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 5,
   "all": [
@@ -8,26 +8,26 @@
       "District District": "Seberang Perai Utara",
       "Main Basin Main Basin": "Sungai Lahar Endin",
       "Sub River Basin Sub River Basin": "Sg. Lahar Endin",
-      "Last Updated Last Updated": "14/01/2026 08:45",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.01,
+      "Last Updated Last Updated": "14/01/2026 10:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 4.04,
       "state_code": "PNG"
+    },
+    {
+      "Station Name Station Name": "Stapang B",
+      "District District": "Sibu",
+      "Main Basin Main Basin": "Batang Oya",
+      "Sub River Basin Sub River Basin": "Btg. Oya",
+      "Last Updated Last Updated": "14/01/2026 11:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 14.26,
+      "state_code": "SRK"
     },
     {
       "Station Name Station Name": "Nanga Lemai B",
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "14/01/2026 09:00",
+      "Last Updated Last Updated": "14/01/2026 11:00",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 5.51,
-      "state_code": "SRK"
-    },
-    {
-      "Station Name Station Name": "Tubau",
-      "District District": "Bintulu",
-      "Main Basin Main Basin": "Batang Kemena",
-      "Sub River Basin Sub River Basin": "Btg. Kemena",
-      "Last Updated Last Updated": "14/01/2026 09:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 7.5,
       "state_code": "SRK"
     },
     {
@@ -35,8 +35,8 @@
       "District District": "Bintulu",
       "Main Basin Main Basin": "Batang Kemena",
       "Sub River Basin Sub River Basin": "Btg. Kemena",
-      "Last Updated Last Updated": "14/01/2026 09:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.13,
+      "Last Updated Last Updated": "14/01/2026 11:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 2.12,
       "state_code": "SRK"
     },
     {
@@ -44,8 +44,8 @@
       "District District": "Bintulu",
       "Main Basin Main Basin": "Batang Kemena",
       "Sub River Basin Sub River Basin": "Sg. Sibiu",
-      "Last Updated Last Updated": "14/01/2026 09:00",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 6.63,
+      "Last Updated Last Updated": "14/01/2026 11:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 6.59,
       "state_code": "SRK"
     }
   ],
@@ -56,28 +56,28 @@
         "District District": "Seberang Perai Utara",
         "Main Basin Main Basin": "Sungai Lahar Endin",
         "Sub River Basin Sub River Basin": "Sg. Lahar Endin",
-        "Last Updated Last Updated": "14/01/2026 08:45",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.01,
+        "Last Updated Last Updated": "14/01/2026 10:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 4.04,
         "state_code": "PNG"
       }
     ],
     "SRK": [
       {
+        "Station Name Station Name": "Stapang B",
+        "District District": "Sibu",
+        "Main Basin Main Basin": "Batang Oya",
+        "Sub River Basin Sub River Basin": "Btg. Oya",
+        "Last Updated Last Updated": "14/01/2026 11:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 14.26,
+        "state_code": "SRK"
+      },
+      {
         "Station Name Station Name": "Nanga Lemai B",
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "14/01/2026 09:00",
+        "Last Updated Last Updated": "14/01/2026 11:00",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 5.51,
-        "state_code": "SRK"
-      },
-      {
-        "Station Name Station Name": "Tubau",
-        "District District": "Bintulu",
-        "Main Basin Main Basin": "Batang Kemena",
-        "Sub River Basin Sub River Basin": "Btg. Kemena",
-        "Last Updated Last Updated": "14/01/2026 09:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 7.5,
         "state_code": "SRK"
       },
       {
@@ -85,8 +85,8 @@
         "District District": "Bintulu",
         "Main Basin Main Basin": "Batang Kemena",
         "Sub River Basin Sub River Basin": "Btg. Kemena",
-        "Last Updated Last Updated": "14/01/2026 09:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.13,
+        "Last Updated Last Updated": "14/01/2026 11:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 2.12,
         "state_code": "SRK"
       },
       {
@@ -94,8 +94,8 @@
         "District District": "Bintulu",
         "Main Basin Main Basin": "Batang Kemena",
         "Sub River Basin Sub River Basin": "Sg. Sibiu",
-        "Last Updated Last Updated": "14/01/2026 09:00",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 6.63,
+        "Last Updated Last Updated": "14/01/2026 11:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 6.59,
         "state_code": "SRK"
       }
     ]
