@@ -1,8 +1,17 @@
 {
-  "generated_at": "16/01/2026 05:52",
+  "generated_at": "16/01/2026 06:16",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 3,
+  "rows": 4,
   "all": [
+    {
+      "Station Name Station Name": "Sg. Siput di Kg. Sg. Siput (F2)",
+      "District District": "Alor Gajah",
+      "Main Basin Main Basin": "Sungai Linggi (Melaka)",
+      "Sub River Basin Sub River Basin": "Sg. Siput",
+      "Last Updated Last Updated": "16/01/2026 05:00",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 8.0,
+      "state_code": "MLK"
+    },
     {
       "Station Name Station Name": "Stapang B",
       "District District": "Sibu",
@@ -32,6 +41,17 @@
     }
   ],
   "states": {
+    "MLK": [
+      {
+        "Station Name Station Name": "Sg. Siput di Kg. Sg. Siput (F2)",
+        "District District": "Alor Gajah",
+        "Main Basin Main Basin": "Sungai Linggi (Melaka)",
+        "Sub River Basin Sub River Basin": "Sg. Siput",
+        "Last Updated Last Updated": "16/01/2026 05:00",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 8.0,
+        "state_code": "MLK"
+      }
+    ],
     "SRK": [
       {
         "Station Name Station Name": "Stapang B",
