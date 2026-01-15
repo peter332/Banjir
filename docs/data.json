@@ -1,8 +1,17 @@
 {
-  "generated_at": "15/01/2026 15:44",
+  "generated_at": "15/01/2026 15:54",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
-  "rows": 4,
+  "rows": 5,
   "all": [
+    {
+      "Station Name Station Name": "Nanga Benin B",
+      "District District": "Kapit",
+      "Main Basin Main Basin": "Batang Rajang",
+      "Sub River Basin Sub River Basin": "Btg. Belaga",
+      "Last Updated Last Updated": "15/01/2026 15:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 24.83,
+      "state_code": "SRK"
+    },
     {
       "Station Name Station Name": "Stapang B",
       "District District": "Sibu",
@@ -42,6 +51,15 @@
   ],
   "states": {
     "SRK": [
+      {
+        "Station Name Station Name": "Nanga Benin B",
+        "District District": "Kapit",
+        "Main Basin Main Basin": "Batang Rajang",
+        "Sub River Basin Sub River Basin": "Btg. Belaga",
+        "Last Updated Last Updated": "15/01/2026 15:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 24.83,
+        "state_code": "SRK"
+      },
       {
         "Station Name Station Name": "Stapang B",
         "District District": "Sibu",
