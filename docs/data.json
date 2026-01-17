@@ -1,5 +1,5 @@
 {
-  "generated_at": "17/01/2026 23:49",
+  "generated_at": "18/01/2026 00:16",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 1,
   "all": [
@@ -8,8 +8,8 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "17/01/2026 23:30",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 5.29,
+      "Last Updated Last Updated": "17/01/2026 23:45",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 5.28,
       "state_code": "SRK"
     }
   ],
@@ -20,8 +20,8 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "17/01/2026 23:30",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 5.29,
+        "Last Updated Last Updated": "17/01/2026 23:45",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 5.28,
         "state_code": "SRK"
       }
     ]
