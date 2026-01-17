@@ -1,5 +1,5 @@
 {
-  "generated_at": "17/01/2026 12:28",
+  "generated_at": "17/01/2026 12:52",
   "source": "https://publicinfobanjir.water.gov.my/aras-air/?lang=en",
   "rows": 3,
   "all": [
@@ -17,8 +17,8 @@
       "District District": "Sibu",
       "Main Basin Main Basin": "Batang Balingian",
       "Sub River Basin Sub River Basin": "Sg. Lemai",
-      "Last Updated Last Updated": "17/01/2026 12:15",
-      "Water Level (m) (Graph) Water Level (m) (Graph)": 5.39,
+      "Last Updated Last Updated": "17/01/2026 12:30",
+      "Water Level (m) (Graph) Water Level (m) (Graph)": 5.37,
       "state_code": "SRK"
     },
     {
@@ -26,7 +26,7 @@
       "District District": "Miri",
       "Main Basin Main Basin": "Batang Baram",
       "Sub River Basin Sub River Basin": "Sg. Tinjar",
-      "Last Updated Last Updated": "17/01/2026 12:15",
+      "Last Updated Last Updated": "17/01/2026 12:30",
       "Water Level (m) (Graph) Water Level (m) (Graph)": 8.08,
       "state_code": "SRK"
     }
@@ -49,8 +49,8 @@
         "District District": "Sibu",
         "Main Basin Main Basin": "Batang Balingian",
         "Sub River Basin Sub River Basin": "Sg. Lemai",
-        "Last Updated Last Updated": "17/01/2026 12:15",
-        "Water Level (m) (Graph) Water Level (m) (Graph)": 5.39,
+        "Last Updated Last Updated": "17/01/2026 12:30",
+        "Water Level (m) (Graph) Water Level (m) (Graph)": 5.37,
         "state_code": "SRK"
       },
       {
@@ -58,7 +58,7 @@
         "District District": "Miri",
         "Main Basin Main Basin": "Batang Baram",
         "Sub River Basin Sub River Basin": "Sg. Tinjar",
-        "Last Updated Last Updated": "17/01/2026 12:15",
+        "Last Updated Last Updated": "17/01/2026 12:30",
         "Water Level (m) (Graph) Water Level (m) (Graph)": 8.08,
         "state_code": "SRK"
       }
